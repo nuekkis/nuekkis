@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
   # Her saat başı otomatik tetikleme
   schedule:
-    - cron: '0 * * * *'
+    - cron: '*/5 * * * *'
 
 # GitHub Actions'ın repoya yazma iznini aktif eder
 permissions:
