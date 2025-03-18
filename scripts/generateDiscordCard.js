@@ -262,7 +262,7 @@ async function main() {
       console.error('Kart yenileme hatası:', error);
       // Hata durumunda bile devam et, interval'i durdurma
     }
-  }, 30000); // 30 saniye
+  }, 60000); // 60 saniye
 
   // GitHub Actions gibi ortamlarda script'in sonsuza kadar çalışmasını engellemek için
   // İsteğe bağlı olarak maksimum çalışma süresi (örn: 1 saat)
