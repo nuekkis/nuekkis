@@ -1,10 +1,13 @@
 name: Update Discord Card
 
 on:
+  # Manuel tetikleme (Actions sekmesinden "Run workflow")
   workflow_dispatch:
+  # Her saat başı otomatik tetikleme
   schedule:
     - cron: '0 * * * *'
 
+# GitHub Actions'ın repoya yazma iznini aktif eder
 permissions:
   contents: write
 
@@ -12,15 +15,32 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      # 1) Kodu repodan çek
       - name: Check out repo
         uses: actions/checkout@v3
 
-      # Puppeteer vs. diğer adımlar...
+      # 2) Puppeteer'ın ihtiyacı olabilen bazı paketleri kur
+      - name: Install Puppeteer dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libnss3
 
+      # 3) package.json içindeki bağımlılıkları yükle (puppeteer, node-fetch vb.)
+      - name: Install dependencies
+        run: npm install
+
+      # 4) Discord kartı PNG'sini oluştur (scripts/generateDiscordCard.js)
+      - name: Generate Discord Card
+        run: npm run generate:card
+
+      # 5) Oluşan discord-card.png dosyasını commit/push et
       - name: Commit and push changes
         run: |
+          # Bot kimliği ayarla
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # PNG dosyasında değişiklik varsa commit
           git add discord-card.png
           git diff-index --quiet HEAD || git commit -m "Update discord-card.png"
           git push
