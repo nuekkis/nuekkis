@@ -1,11 +1,9 @@
 name: Update Discord Card
 
 on:
-  # Manuel tetikleme (Actions sekmesinden "Run workflow")
-  workflow_dispatch:
-  # 5 dakikada bir tetikleme (GitHub Actions'ın desteklediği minimum süre)
+  workflow_dispatch: # Manuel tetikleme (GitHub Actions sekmesinden)
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/1 * * * *' # Her 15 dakikada bir çalıştır
 
 permissions:
   contents: write
@@ -28,10 +26,13 @@ jobs:
       - name: Generate Discord Card
         run: npm run generate:card
 
+      - name: Debugging Info (Opsiyonel)
+        run: env
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add discord-card.png
-          git diff-index --quiet HEAD || git commit -m "Update discord-card.png"
+          git commit -m "Update discord-card.png" --allow-empty # PNG değişmese bile commit zorla atılacak
           git push
