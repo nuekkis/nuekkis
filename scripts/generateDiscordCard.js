@@ -6,17 +6,12 @@ const puppeteer = require('puppeteer');
 const fetch = require('node-fetch');
 
 async function getLanyardData(userId) {
-  try {
-    const res = await fetch(`https://api.lanyard.rest/v1/users/${userId}`);
-    const json = await res.json();
-    if (!json.success) {
-      throw new Error('Lanyard API başarısız döndü.');
-    }
-    return json.data;
-  } catch (error) {
-    console.error('Lanyard API hatası:', error.message);
-    throw error;
+  const res = await fetch(`https://api.lanyard.rest/v1/users/${userId}`);
+  const json = await res.json();
+  if (!json.success) {
+    throw new Error('Lanyard API başarısız döndü.');
   }
+  return json.data;
 }
 
 // Normal süre formatı
@@ -39,9 +34,7 @@ function safeFormatDurationMs(ms) {
   return formatDurationMs(ms);
 }
 
-async function generateCard() {
-  console.log(`[${new Date().toISOString()}] Kart oluşturuluyor...`);
-  
+async function main() {
   // Kendi Discord ID'nizi girin
   const userId = '991409937022468169';
   const data = await getLanyardData(userId);
@@ -219,54 +212,25 @@ async function generateCard() {
   `;
   
   // Puppeteer ile tarayıcı başlat
-  let browser;
-  try {
-    browser = await puppeteer.launch({
-      headless: true,
-      args: ['--no-sandbox', '--disable-setuid-sandbox']
-    });
-    const page = await browser.newPage();
-    await page.setContent(htmlContent, { waitUntil: 'networkidle0' });
-    // Görsellerin yüklenmesi için ufak bekleme
-    await page.waitForTimeout(500);
-    const cardElement = await page.$('#card');
-    // PNG çıktısı (şeffaf arka plan için omitBackground:true)
-    await cardElement.screenshot({
-      path: path.join(__dirname, '..', 'discord-card.png'),
-      omitBackground: true
-    });
-    console.log(`[${new Date().toISOString()}] discord-card.png oluşturuldu.`);
-    return true;
-  } catch (error) {
-    console.error('Kart oluşturma hatası:', error);
-    return false;
-  } finally {
-    if (browser) {
-      await browser.close();
-    }
-  }
+  const browser = await puppeteer.launch({
+    headless: true,
+    args: ['--no-sandbox', '--disable-setuid-sandbox']
+  });
+  const page = await browser.newPage();
+  await page.setContent(htmlContent, { waitUntil: 'networkidle0' });
+  // Görsellerin yüklenmesi için ufak bekleme
+  await page.waitForTimeout(500);
+  const cardElement = await page.$('#card');
+  // PNG çıktısı (şeffaf arka plan için omitBackground:true)
+  await cardElement.screenshot({
+    path: path.join(__dirname, '..', 'discord-card.png'),
+    omitBackground: true
+  });
+  await browser.close();
+  console.log('discord-card.png oluşturuldu.');
 }
 
-async function main() {
-  console.log('Discord kart yenileme servisi başlatılıyor...');
-  console.log('Kart 30 kez, 10 saniyede bir güncellenecek.');
-  
-  // İlk kartı hemen oluştur
-  await generateCard();
-  
-  // 10 saniyede bir yenileme, 30 kez
-  for (let i = 1; i < 30; i++) {  // İlk güncelleme zaten yapıldı, 29 tane daha
-    console.log(`${i+1}/30. güncelleme için bekleniyor...`);
-    await new Promise(resolve => setTimeout(resolve, 10000)); // 10 saniye bekle
-    console.log(`${i+1}/30. güncelleme yapılıyor...`);
-    await generateCard();
-  }
-  
-  console.log('Tüm 30 güncelleme tamamlandı. Script sonlandırılıyor.');
-}
-
-// Script'i başlat
 main().catch(err => {
-  console.error('Kritik hata:', err);
+  console.error(err);
   process.exit(1);
 });
