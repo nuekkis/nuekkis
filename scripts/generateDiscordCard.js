@@ -41,7 +41,7 @@ async function main() {
   );
   const customState = customActivity ? customActivity.state : null;
 
-  // Spotify kartı veya diğer etkinlik kartı HTML içeriği
+  // Spotify veya diğer etkinlik kartı HTML içeriği
   let cardExtraHTML = '';
   if (listening_to_spotify && spotify) {
     const { start, end, album, album_art_url, artist, song } = spotify;
@@ -73,16 +73,27 @@ async function main() {
       </div>
     `;
   } else if (activities.length > 0) {
-    // Spotify dışındaki etkinlik kartı
     const currentActivity = activities.find((a) => a.type !== 4);
     if (currentActivity) {
       cardExtraHTML = `
         <div style="margin-top: 1rem; background: #1a202c; padding: 0.75rem; border-radius: 0.5rem; display: flex; align-items: center;">
-          ${currentActivity.assets && currentActivity.assets.large_image ? `<img src="${currentActivity.assets.large_image}" alt="${currentActivity.name}" style="width: 3rem; height: 3rem; border-radius: 0.375rem; margin-right: 0.75rem;" crossOrigin="anonymous"/>` : ''}
+          ${
+            currentActivity.assets && currentActivity.assets.large_image
+              ? `<img src="${currentActivity.assets.large_image}" alt="${currentActivity.name}" style="width: 3rem; height: 3rem; border-radius: 0.375rem; margin-right: 0.75rem;" crossOrigin="anonymous"/>`
+              : ''
+          }
           <div>
             <div style="font-size: 0.875rem; font-weight: bold; color: #63b3ed;">${currentActivity.name}</div>
-            ${currentActivity.details ? `<div style="font-size: 0.75rem; color: #cbd5e0;">${currentActivity.details}</div>` : ''}
-            ${currentActivity.state ? `<div style="font-size: 0.75rem; color: #a0aec0;">${currentActivity.state}</div>` : ''}
+            ${
+              currentActivity.details
+                ? `<div style="font-size: 0.75rem; color: #cbd5e0;">${currentActivity.details}</div>`
+                : ''
+            }
+            ${
+              currentActivity.state
+                ? `<div style="font-size: 0.75rem; color: #a0aec0;">${currentActivity.state}</div>`
+                : ''
+            }
           </div>
         </div>
       `;
@@ -105,7 +116,8 @@ async function main() {
     ? `<div style="height:6rem; width:100%; background-image: url(${discord_user.bannerURL}); background-size: cover; background-position: center; border-top-left-radius: 1rem; border-top-right-radius: 1rem; margin-bottom: 1rem;"></div>`
     : '';
 
-  // Tam HTML içeriğini oluşturuyoruz (Web versiyonuyla birebir benzer görünüm)
+  // TAM HTML içeriği
+  // Status ikonu: transform: translate(25%,25%) + border ekledik
   const htmlContent = `
     <!DOCTYPE html>
     <html>
@@ -126,9 +138,32 @@ async function main() {
           ${bannerHTML}
           <div style="display: flex; align-items: center;">
             <div style="position: relative; width: 5rem; height: 5rem;">
-              <img src="${avatarUrl}" alt="${discord_user.username}" style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; border: 0.25rem solid #1a202c;" crossOrigin="anonymous"/>
-              <div style="position: absolute; bottom: 0; right: 0; background: #1a202c; border-radius: 50%; padding: 0.125rem;">
-                <img src="https://icelater.vercel.app/statusIcon/${discord_status}.png" alt="${discord_status}" style="width: 1rem; height: 1rem;" crossOrigin="anonymous"/>
+              <img
+                src="${avatarUrl}"
+                alt="${discord_user.username}"
+                style="width: 100%; height: 100%; border-radius: 50%; object-fit: cover; border: 0.25rem solid #1a202c;"
+                crossOrigin="anonymous"
+              />
+              <div style="
+                position: absolute;
+                bottom: 0;
+                right: 0;
+                transform: translate(25%, 25%);
+                background: #1a202c;
+                border: 2px solid #2d3748;
+                border-radius: 50%;
+                width: 1.5rem;
+                height: 1.5rem;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+              ">
+                <img
+                  src="https://icelater.vercel.app/statusIcon/${discord_status}.png"
+                  alt="${discord_status}"
+                  style="width:1rem; height:1rem;"
+                  crossOrigin="anonymous"
+                />
               </div>
             </div>
             <div style="margin-left: 1rem;">
@@ -139,29 +174,34 @@ async function main() {
               </div>
             </div>
           </div>
-          ${customState ? `
+          ${
+            customState
+              ? `
             <div style="position: absolute; top: 1.5rem; right: 1.5rem;">
               <div style="background: #4a5568; color: #fff; font-size: 0.875rem; padding: 0.5rem; border-radius: 0.5rem; max-width: 11.25rem; word-break: break-word;">
                 ${customState}
               </div>
             </div>
-          ` : ''}
+          `
+              : ''
+          }
           ${cardExtraHTML}
         </div>
       </body>
     </html>
   `;
   
-  // Puppeteer ile headless tarayıcı başlatıyoruz
+  // Puppeteer ile headless tarayıcı başlat
   const browser = await puppeteer.launch({
     headless: true,
     args: ['--no-sandbox', '--disable-setuid-sandbox']
   });
   const page = await browser.newPage();
   await page.setContent(htmlContent, { waitUntil: 'networkidle0' });
-  // Görsellerin yüklenmesi için kısa bir bekleme ekleyelim
+  // Görsellerin yüklenmesi için ufak bekleme
   await page.waitForTimeout(500);
   const cardElement = await page.$('#card');
+  // Şeffaf arka plan istiyorsanız "omitBackground: true"
   await cardElement.screenshot({
     path: path.join(__dirname, '..', 'discord-card.png'),
     omitBackground: true
