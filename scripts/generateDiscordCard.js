@@ -1,5 +1,3 @@
-Ha scripti çalıştırabiliyosak çok iyi, o zaman bu script 10 saniyede bir yenileisnin
-
 // scripts/generateDiscordCard.js
 
 const fs = require('fs');
