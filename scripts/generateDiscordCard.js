@@ -14,6 +14,7 @@ async function getLanyardData(userId) {
   return json.data;
 }
 
+// Normal süre formatı
 function formatDurationMs(ms) {
   const totalSeconds = Math.floor(ms / 1000);
   const hours = Math.floor(totalSeconds / 3600);
@@ -23,6 +24,14 @@ function formatDurationMs(ms) {
     return `${hours}:${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
   }
   return `${minutes}:${String(seconds).padStart(2, '0')}`;
+}
+
+// Güvenli süre formatı (NaN'ı engellemek için)
+function safeFormatDurationMs(ms) {
+  if (!Number.isFinite(ms) || ms < 0) {
+    return '0:00';
+  }
+  return formatDurationMs(ms);
 }
 
 async function main() {
@@ -44,14 +53,22 @@ async function main() {
   // Spotify veya diğer etkinlik kartı HTML içeriği
   let cardExtraHTML = '';
   if (listening_to_spotify && spotify) {
-    const { start, end, album, album_art_url, artist, song } = spotify;
-    const totalDuration = end - start;
-    const elapsed = Math.min(Math.max(currentTime - start, 0), totalDuration);
-    const progressPercent = (elapsed / totalDuration) * 100;
+    // Spotify zaman verilerini düzgün parse ediyoruz
+    const startNum = typeof spotify.timestamps?.start === 'number' ? spotify.timestamps.start : 0;
+    const endNum = typeof spotify.timestamps?.end === 'number' ? spotify.timestamps.end : 0;
+    const totalDuration = endNum > startNum ? endNum - startNum : 0;
+    const elapsed = Math.min(Math.max(currentTime - startNum, 0), totalDuration);
+    const progressPercent = totalDuration > 0 ? (elapsed / totalDuration) * 100 : 0;
+
+    const album = spotify.album || '';
+    const albumArt = spotify.album_art_url || '';
+    const artist = spotify.artist || '';
+    const song = spotify.song || '';
+
     cardExtraHTML = `
       <div style="margin-top: 1rem; background: rgba(55,65,81,0.5); border-radius: 1rem; padding: 1rem;">
         <div style="display: flex; align-items: center;">
-          <img src="${album_art_url}" alt="${album}" style="width: 4rem; height: 4rem; border-radius: 0.25rem; object-fit: cover; margin-right: 1rem;" crossOrigin="anonymous"/>
+          <img src="${albumArt}" alt="${album}" style="width: 4rem; height: 4rem; border-radius: 0.25rem; object-fit: cover; margin-right: 1rem;" crossOrigin="anonymous"/>
           <div style="flex: 1;">
             <div style="font-size: 0.875rem; font-weight: bold; color: #fff;">${song}</div>
             <div style="font-size: 0.75rem; color: #cbd5e0;">${artist} &middot; ${album}</div>
@@ -66,32 +83,36 @@ async function main() {
             </div>
           </div>
           <div style="display: flex; justify-content: space-between; font-size: 0.75rem; color: #48bb78; font-weight: 500; margin-top: 0.25rem;">
-            <span>${formatDurationMs(elapsed)}</span>
-            <span>${formatDurationMs(totalDuration)}</span>
+            <span>${safeFormatDurationMs(elapsed)}</span>
+            <span>${safeFormatDurationMs(totalDuration)}</span>
           </div>
         </div>
       </div>
     `;
-  } else if (activities.length > 0) {
+  } else {
+    // Spotify dışındaki etkinlik (örnek: bir oyun vs.)
     const currentActivity = activities.find((a) => a.type !== 4);
     if (currentActivity) {
+      const largeImage = currentActivity.assets?.large_image || '';
+      const details = currentActivity.details || '';
+      const state = currentActivity.state || '';
       cardExtraHTML = `
         <div style="margin-top: 1rem; background: #1a202c; padding: 0.75rem; border-radius: 0.5rem; display: flex; align-items: center;">
           ${
-            currentActivity.assets && currentActivity.assets.large_image
-              ? `<img src="${currentActivity.assets.large_image}" alt="${currentActivity.name}" style="width: 3rem; height: 3rem; border-radius: 0.375rem; margin-right: 0.75rem;" crossOrigin="anonymous"/>`
+            largeImage
+              ? `<img src="${largeImage}" alt="${currentActivity.name}" style="width: 3rem; height: 3rem; border-radius: 0.375rem; margin-right: 0.75rem;" crossOrigin="anonymous"/>`
               : ''
           }
           <div>
             <div style="font-size: 0.875rem; font-weight: bold; color: #63b3ed;">${currentActivity.name}</div>
             ${
-              currentActivity.details
-                ? `<div style="font-size: 0.75rem; color: #cbd5e0;">${currentActivity.details}</div>`
+              details
+                ? `<div style="font-size: 0.75rem; color: #cbd5e0;">${details}</div>`
                 : ''
             }
             ${
-              currentActivity.state
-                ? `<div style="font-size: 0.75rem; color: #a0aec0;">${currentActivity.state}</div>`
+              state
+                ? `<div style="font-size: 0.75rem; color: #a0aec0;">${state}</div>`
                 : ''
             }
           </div>
@@ -116,8 +137,7 @@ async function main() {
     ? `<div style="height:6rem; width:100%; background-image: url(${discord_user.bannerURL}); background-size: cover; background-position: center; border-top-left-radius: 1rem; border-top-right-radius: 1rem; margin-bottom: 1rem;"></div>`
     : '';
 
-  // TAM HTML içeriği
-  // Status ikonu: transform: translate(25%,25%) + border ekledik
+  // Status ikonu konumu (biraz dışarı taşıyoruz)
   const htmlContent = `
     <!DOCTYPE html>
     <html>
@@ -191,7 +211,7 @@ async function main() {
     </html>
   `;
   
-  // Puppeteer ile headless tarayıcı başlat
+  // Puppeteer ile tarayıcı başlat
   const browser = await puppeteer.launch({
     headless: true,
     args: ['--no-sandbox', '--disable-setuid-sandbox']
@@ -201,7 +221,7 @@ async function main() {
   // Görsellerin yüklenmesi için ufak bekleme
   await page.waitForTimeout(500);
   const cardElement = await page.$('#card');
-  // Şeffaf arka plan istiyorsanız "omitBackground: true"
+  // PNG çıktısı (şeffaf arka plan için omitBackground:true)
   await cardElement.screenshot({
     path: path.join(__dirname, '..', 'discord-card.png'),
     omitBackground: true
