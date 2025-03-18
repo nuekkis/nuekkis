@@ -1,0 +1,11 @@
+{
+  "name": "icelatordc",
+  "version": "1.0.0",
+  "scripts": {
+    "generate:card": "node scripts/generateDiscordCard.js"
+  },
+  "dependencies": {
+    "puppeteer": "^19.7.5",
+    "node-fetch": "^3.3.1"
+  }
+}
