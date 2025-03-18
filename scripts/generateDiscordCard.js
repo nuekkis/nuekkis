@@ -6,12 +6,17 @@ const puppeteer = require('puppeteer');
 const fetch = require('node-fetch');
 
 async function getLanyardData(userId) {
-  const res = await fetch(`https://api.lanyard.rest/v1/users/${userId}`);
-  const json = await res.json();
-  if (!json.success) {
-    throw new Error('Lanyard API başarısız döndü.');
+  try {
+    const res = await fetch(`https://api.lanyard.rest/v1/users/${userId}`);
+    const json = await res.json();
+    if (!json.success) {
+      throw new Error('Lanyard API başarısız döndü.');
+    }
+    return json.data;
+  } catch (error) {
+    console.error('Lanyard API hatası:', error.message);
+    throw error;
   }
-  return json.data;
 }
 
 // Normal süre formatı
@@ -34,7 +39,9 @@ function safeFormatDurationMs(ms) {
   return formatDurationMs(ms);
 }
 
-async function main() {
+async function generateCard() {
+  console.log(`[${new Date().toISOString()}] Kart oluşturuluyor...`);
+  
   // Kendi Discord ID'nizi girin
   const userId = '991409937022468169';
   const data = await getLanyardData(userId);
@@ -212,25 +219,70 @@ async function main() {
   `;
   
   // Puppeteer ile tarayıcı başlat
-  const browser = await puppeteer.launch({
-    headless: true,
-    args: ['--no-sandbox', '--disable-setuid-sandbox']
-  });
-  const page = await browser.newPage();
-  await page.setContent(htmlContent, { waitUntil: 'networkidle0' });
-  // Görsellerin yüklenmesi için ufak bekleme
-  await page.waitForTimeout(500);
-  const cardElement = await page.$('#card');
-  // PNG çıktısı (şeffaf arka plan için omitBackground:true)
-  await cardElement.screenshot({
-    path: path.join(__dirname, '..', 'discord-card.png'),
-    omitBackground: true
-  });
-  await browser.close();
-  console.log('discord-card.png oluşturuldu.');
+  let browser;
+  try {
+    browser = await puppeteer.launch({
+      headless: true,
+      args: ['--no-sandbox', '--disable-setuid-sandbox']
+    });
+    const page = await browser.newPage();
+    await page.setContent(htmlContent, { waitUntil: 'networkidle0' });
+    // Görsellerin yüklenmesi için ufak bekleme
+    await page.waitForTimeout(500);
+    const cardElement = await page.$('#card');
+    // PNG çıktısı (şeffaf arka plan için omitBackground:true)
+    await cardElement.screenshot({
+      path: path.join(__dirname, '..', 'discord-card.png'),
+      omitBackground: true
+    });
+    console.log(`[${new Date().toISOString()}] discord-card.png oluşturuldu.`);
+    return true;
+  } catch (error) {
+    console.error('Kart oluşturma hatası:', error);
+    return false;
+  } finally {
+    if (browser) {
+      await browser.close();
+    }
+  }
 }
 
+async function main() {
+  console.log('Discord kart yenileme servisi başlatılıyor...');
+  console.log('Kart her 10 saniyede bir güncellenecek.');
+  
+  // İlk kartı hemen oluştur
+  await generateCard();
+  
+  // 10 saniyede bir yenileme döngüsü
+  const intervalId = setInterval(async () => {
+    try {
+      await generateCard();
+    } catch (error) {
+      console.error('Kart yenileme hatası:', error);
+      // Hata durumunda bile devam et, interval'i durdurma
+    }
+  }, 10000); // 10 saniye
+
+  // GitHub Actions gibi ortamlarda script'in sonsuza kadar çalışmasını engellemek için
+  // İsteğe bağlı olarak maksimum çalışma süresi (örn: 1 saat)
+  const MAX_RUNTIME = 60 * 60 * 1000; // 1 saat (milisaniye)
+  setTimeout(() => {
+    clearInterval(intervalId);
+    console.log('Maksimum çalışma süresi aşıldı, servis durduruluyor.');
+    process.exit(0);
+  }, MAX_RUNTIME);
+  
+  // CTRL+C ile durdurma için sinyal yakalama
+  process.on('SIGINT', () => {
+    clearInterval(intervalId);
+    console.log('Servis durduruldu.');
+    process.exit(0);
+  });
+}
+
+// Script'i başlat
 main().catch(err => {
-  console.error(err);
+  console.error('Kritik hata:', err);
   process.exit(1);
 });
