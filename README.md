@@ -18,9 +18,7 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 ## Technologies & Tools
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 10px;">
-    
-  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 10px;"
     <div style="background: #2d2d2d; border-radius: 8px; padding: 10px; display: flex; flex-direction: column; align-items: center; width: 80px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" title="Node.js" />
       <p style="font-size: 0.8rem; color: #ccc; margin-top: 5px;">Node.js</p>
