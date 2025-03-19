@@ -45,3 +45,6 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESLint" width="40" title="ESLint" />
   
 </div>
+
+
+![snake gif](https://github.com/icelaterdc/icelaterdc/blob/output/github-contribution-grid-snake-dark.svg)
