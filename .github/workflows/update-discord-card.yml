@@ -1,9 +1,9 @@
 name: Update Discord Card
 
 on:
-  workflow_dispatch: # Manuel tetikleme (GitHub Actions sekmesinden)
+  workflow_dispatch:
   schedule:
-    - cron: '*/1 * * * *' # Her 1 dakikada bir çalıştır
+    - cron: '*/5 * * * *'
 
 permissions:
   contents: write
