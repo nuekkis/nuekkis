@@ -47,4 +47,4 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 </div>
 
 
-![snake gif](https://github.com/icelaterdc/icelaterdc/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
