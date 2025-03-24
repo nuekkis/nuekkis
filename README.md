@@ -1,4 +1,4 @@
-# Hi, I'm IceLater Full-Stack Developer
+# Hi there, I'm IceLater
 
 ## About Me
 
