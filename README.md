@@ -48,3 +48,5 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 
 
 ![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
+
+![Snake animation](https://raw.githubusercontent.com/icelater/icelater/output/github-contribution-grid-snake-dark.svg)
