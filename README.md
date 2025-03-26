@@ -25,27 +25,27 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
     </tr>
     <tr>
       <td><strong>Frontend Development</strong></td>
-      <td>Frontend kodlamayı pek fazla sevmesem de finalde ortaya çıkan projenin görsel güzelliğini buna borçluyum.</td>
+      <td>Otaya çıkan projenin görsel güzelliğini buna borçluyum.</td>
       <td>React, TypeScript, HTML5, CSS3, Tailwind</td>
     </tr>
     <tr>
       <td><strong>Backend Development</strong></td>
-      <td>Backend kodlamayı severim. Ortaya çıkan projenin mekaniksel açıdan sorunsuzca çalışması bende bambaşka bir his bırakıyor.</td>
+      <td>Projelerin mekaniksel olarak çalışmasını sağlamak bambaşka bir his yaratıyor.</td>
       <td>Node.js, Express, GraphQL</td>
     </tr>
     <tr>
       <td><strong>Full-Stack Development</strong></td>
-      <td>JAMstack ile uçtan uca projeler yapıyorum. Büyük olmayan projelerde (blog, docs vb.) performans açısından Astro kullanırım.</td>
+      <td>JAMstack ile uçtan uca projeler yapıyorum. Tasarımdan önce işlevsellik gelir.</td>
       <td>Next.js, Astro, Vite</td>
     </tr>
     <tr>
       <td><strong>Veritabanı Yönetimi</strong></td>
-      <td>Veriyi hem güvenli hem hızlı tutmak için SQL ve NoSQL ile çalışıyorum. Bizde tüm veriler güvende :d</td>
+      <td>Veriyi hem güvenli hem hızlı tutmak için SQL ve NoSQL ile çalışıyorum.</td>
       <td>MongoDB, PostgreSQL, SQLite, Supabase</td>
     </tr>
     <tr>
       <td><strong>DevOps</strong></td>
-      <td>Projelerin bulutta sorunsuz çalışması için dağıtım süreçlerini optimize ediyor ve her alanda destekli bir şekilde çalışmalarını sağlıyorum. </td>
+      <td>Projelerin bulutta sorunsuz çalışması için dağıtım süreçlerini optimize ediyor ve her alanda çalışmalarını sağlıyorum. </td>
       <td>Docker, AWS, Azure, Vercel</td>
     </tr>
   </table>
