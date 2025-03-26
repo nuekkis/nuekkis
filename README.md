@@ -104,7 +104,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
             style="width: 100%; border-radius: 5px 5px 0 0;"
           />
           <h3 style="text-align: center; color: #333;">
-            <a href="https://github.com/OrnekLink/SlayerBot" target="_blank" style="text-decoration: none; color: #CB3837;">
+            <a href="" target="_blank" style="text-decoration: none; color: #CB3837;">
               Slayer Bot
             </a>
           </h3>
@@ -128,7 +128,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
             style="width: 100%; border-radius: 5px 5px 0 0;"
           />
           <h3 style="text-align: center; color: #333;">
-            <a href="https://github.com/OrnekLink/npmhub" target="_blank" style="text-decoration: none; color: #CB3837;">
+            <a href="" target="_blank" style="text-decoration: none; color: #CB3837;">
               NpmHub
             </a>
           </h3>
