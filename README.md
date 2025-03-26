@@ -84,47 +84,6 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ---
 
-## 🌍 Projelerim
-
-<div align="center">
-  <table>
-    <tr>
-      <th>Proje Adı</th>
-      <th>Açıklama</th>
-      <th>Teknolojiler</th>
-      <th>Link</th>
-    </tr>
-    <tr>
-      <td><strong>TaskMaster</strong></td>
-      <td>Görevlerini kolayca yönetebileceğin, hayat kurtaran bir web uygulaması!</td>
-      <td>React, Node.js, MongoDB</td>
-      <td><a href="#">Canlı Demo</a></td>
-    </tr>
-    <tr>
-      <td><strong>PortfolioGenix</strong></td>
-      <td>Developer’lar için şık ve özelleştirilebilir portföy oluşturucu.</td>
-      <td>Next.js, Supabase</td>
-      <td><a href="#">GitHub</a></td>
-    </tr>
-    <tr>
-      <td><strong>WeatherSync</strong></td>
-      <td>Hava durumunu hem şık hem hızlı gösteren bir uygulama.</td>
-      <td>Astro, GraphQL</td>
-      <td><a href="#">Canlı Demo</a></td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 🤝 Topluluk & Katkılar
-
-- **Açık Kaynak:** React ve Node.js projelerinde 5+ katkım var. Kodlarım başkalarına da ilham olsun diye uğraşıyorum!
-- **Mentorluk:** Yeni başlayanlara yol gösterip onların da bu dünyaya adım atmasına yardım ediyorum.
-- **Blog:** Kodlama maceralarımı ve püf noktalarımı [Medium](https://medium.com/@icelater) üzerinden paylaşıyorum. Bi’ göz at istersen!
-
----
-
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
@@ -151,13 +110,6 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-  <p><em>Kodlarım dans ediyor, projelerim hayat buluyor!</em></p>
-</div>
-
----
-
 ## 🎨 Yaratıcı Köşem
 
 Kodlama dışında beni ben yapan birkaç şey:
@@ -167,11 +119,22 @@ Kodlama dışında beni ben yapan birkaç şey:
 
 ---
 
-## 🏆 Başarılarım
+## 🎮 Küçük Bir Oyun: Bilmece Çöz!
 
-- **Hackathon Şampiyonu:** 2023’te "CodeFest"te ekibimle birincilik kazandık.
-- **Sertifikalar:** Udemy ve Coursera’dan 10+ sertifikayla kendimi sürekli tazeliyorum.
-- **Topluluk Ödülü:** GitHub’da "Top Contributor" rozetiyle ödüllendirildim.
+Profilime hoş geldin! Sana küçük bir bilmece hazırladım. Bakalım çözebilecek misin?
+
+**Bilmece:** *Ben bir developer'ım, ama klavyem yok. Kod yazamam, ama bug çözebilirim. Ben neyim?*
+
+Cevabı bulduysan, [buraya tıklayarak](https://github.com/icelaterdc/icelaterdc/issues/new) bir issue aç ve cevabını yaz! Doğru cevabı veren ilk kişi, profilimde özel bir shoutout alacak! 🎉
+
+**İpucu:** Cevap, kodlama dünyasında çokça duyduğun bir terim!
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <p><em>Kodlarım dans ediyor, projelerim hayat buluyor!</em></p>
+</div>
 
 ---
 
