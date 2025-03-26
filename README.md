@@ -47,7 +47,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
     </tr>
     <tr>
       <td><strong>DevOps</strong></td>
-      <td>Buluy barındırma, konteynerleştirme, hosting ve serverless ihtiyacında kullanırım</td>
+      <td>Bulut barındırma, konteynerleştirme, hosting ve serverless ihtiyacında kullanırım</td>
       <td>Bukut </td>
     </tr>
   </table>
