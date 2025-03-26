@@ -84,27 +84,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ---
 
-## 📦 NPM Kütüphanelerim
 
-<div align="center">
-  <h2>NPM Kütüphanelerim</h2>
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-top: 20px;">
-    <a href="https://www.npmjs.com/package/grokdb" target="_blank" style="text-decoration: none;">
-      <div style="border: 1px solid #e5e5e5; border-radius: 8px; width: 250px; padding: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.2s;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" style="display: block; margin: 0 auto;">
-        <h3 style="text-align: center; color: #CB3837;">grokdb</h3>
-        <p style="text-align: center; color: #333;">Groove veritabanı yönetimi için özel kütüphane.</p>
-      </div>
-    </a>
-    <a href="https://www.npmjs.com/package/setmusic" target="_blank" style="text-decoration: none;">
-      <div style="border: 1px solid #e5e5e5; border-radius: 8px; width: 250px; padding: 20px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: transform 0.2s;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" style="display: block; margin: 0 auto;">
-        <h3 style="text-align: center; color: #CB3837;">setmusic</h3>
-        <p style="text-align: center; color: #333;">Müzik ayarlarını kolaylaştıran, dinamik kütüphane.</p>
-      </div>
-    </a>
-  </div>
-</div>
 
 ---
 
@@ -130,7 +110,65 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ## ✨ Kodlama Felsefem
 
-> "Kod yazmak benim için bir tablo çizmek gibi: Temiz, anlamlı ve etkileyici olmalı. Her satır bir hikaye anlatmalı ve geleceğe bir iz bırakmalı. Kodlarım, benim imzamdır!"
+> "Kod yazmak benim için bir tablo çizmek gibi: Temiz, anlamlı ve etkileyici olmalı. Her satır bir h## 📦 NPM Kütüphanelerim
+
+<div align="center">
+  <h2>NPM Kütüphanelerim</h2>
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <a href="https://www.npmjs.com/package/grokdb" target="_blank" style="text-decoration: none;">
+          <div style="
+            border: 1px solid #e5e5e5;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: transform 0.2s;
+          ">
+            <img 
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" 
+              alt="NPM" 
+              width="50" 
+              style="display: block; margin: 0 auto;"
+            />
+            <h3 style="text-align: center; color: #CB3837;">grokdb</h3>
+            <p style="text-align: center; color: #333;">
+              Groove veritabanı yönetimi için özel kütüphane.
+            </p>
+          </div>
+        </a>
+      </td>
+      <td width="50%">
+        <a href="https://www.npmjs.com/package/setmusic" target="_blank" style="text-decoration: none;">
+          <div style="
+            border: 1px solid #e5e5e5;
+            border-radius: 8px;
+            padding: 20px;
+            margin: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            transition: transform 0.2s;
+          ">
+            <img 
+              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" 
+              alt="NPM" 
+              width="50" 
+              style="display: block; margin: 0 auto;"
+            />
+            <h3 style="text-align: center; color: #CB3837;">setmusic</h3>
+            <p style="text-align: center; color: #333;">
+              Müzik ayarlarını kolaylaştıran, dinamik kütüphane.
+            </p>
+          </div>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+ikaye anlatmalı ve geleceğe bir iz bırakmalı. Kodlarım, benim imzamdır!"
 
 ---
 
