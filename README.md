@@ -135,9 +135,9 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
               width="50" 
               style="display: block; margin: 0 auto;"
             />
-            <h3 style="text-align: center; color: #CB3837;">grokdb</h3>
+            <h3 style="text-align: center; color: #CB3837;">GrokDB</h3>
             <p style="text-align: center; color: #333;">
-              Groove veritabanı yönetimi için özel kütüphane.
+              SQLite & Json kütüphanelerinin yönetimini sağlayan, CLI, migration ve DB dinleyici event sunan veritabanı sarmalayıcısı.
             </p>
           </div>
         </a>
@@ -158,9 +158,9 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
               width="50" 
               style="display: block; margin: 0 auto;"
             />
-            <h3 style="text-align: center; color: #CB3837;">setmusic</h3>
+            <h3 style="text-align: center; color: #CB3837;">SetMusic</h3>
             <p style="text-align: center; color: #333;">
-              Müzik ayarlarını kolaylaştıran, dinamik kütüphane.
+              Müzik çalmak için gerekli olan tüm kütüphaneleri tek modül olarak sunan basit ve kullanışlı Discord müzik botu kütüphanesi.
             </p>
           </div>
         </a>
@@ -178,18 +178,6 @@ Kodlama dışında beni ben yapan birkaç şey:
 - **Bilim Kurgu Romanları:** Geleceği hayal etmek, kod yazarken ufkumu açıyor.
 - **Doğa Yürüyüşleri:** Temiz hava ve yeşillik, kod bloklarını çözmeme yardımcı oluyor.
 - **Kahve ve Kod:** En iyi fikirler kahve kokusuyla geliyor, test edildi onaylandı!
-
----
-
-## 🎮 Küçük Bir Oyun: Bilmece Çöz!
-
-Profilime hoş geldin! Sana küçük bir bilmece hazırladım. Bakalım çözebilecek misin?
-
-**Bilmece:** *Ben bir developer'ım, ama klavyem yok. Kod yazamam, ama bug çözebilirim. Ben neyim?*
-
-Cevabı bulduysan, [buraya tıklayarak](https://github.com/icelaterdc/icelaterdc/issues/new) bir issue aç ve cevabını yaz! Doğru cevabı veren ilk kişi, profilimde özel bir shoutout alacak! 🎉
-
-**İpucu:** Cevap, kodlama dünyasında çokça duyduğun bir terim!
 
 ---
 
