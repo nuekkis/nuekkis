@@ -10,7 +10,7 @@
 
 - **Age:** 17
 - **From:** Türkiye / İzmir
-- **Salutation:** He/Him
+- **Pronouns:** He/Him
 - **My Hobbies:** Software, listening to music, watching anime, playing games (usually with stories)
 - **Race:** 🇹🇷/🇷🇺
 - **Countries I've Been To:** 🇬🇷 🇩🇪 and Cyprus
