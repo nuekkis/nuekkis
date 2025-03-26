@@ -129,7 +129,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
           />
           <h3 style="text-align: center; color: #333;">
             <a href="https://github.com/OrnekLink/npmhub" target="_blank" style="text-decoration: none; color: #CB3837;">
-              npmhub
+              NpmHub
             </a>
           </h3>
           <p style="text-align: center; color: #333;">
@@ -165,11 +165,11 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
           />
           <h3 style="text-align: center; color: #CB3837;">
             <a href="https://www.npmjs.com/package/grokdb" target="_blank" style="text-decoration: none; color: #CB3837;">
-              grokdb
+              GrokDB
             </a>
           </h3>
           <p style="text-align: center; color: #333;">
-            Groove veritabanı yönetimi için özel kütüphane.
+            SQLite ve Json verilerini yönetmeye yarayan, CLI, Migration ve DB Event desteği sunan veritabanı sarmalayıcı Npm kütüphanesi.
           </p>
         </div>
       </td>
@@ -190,11 +190,11 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
           />
           <h3 style="text-align: center; color: #CB3837;">
             <a href="https://www.npmjs.com/package/setmusic" target="_blank" style="text-decoration: none; color: #CB3837;">
-              setmusic
+              SetMusic
             </a>
           </h3>
           <p style="text-align: center; color: #333;">
-            Müzik ayarlarını kolaylaştıran, dinamik kütüphane.
+            Müzik çalmaya yarayan tüm kütüphaneleri tek bir modülde toplayan basit ve kullanışlı bir Discord bot müzik kütüphanesi.
           </p>
         </div>
       </td>
