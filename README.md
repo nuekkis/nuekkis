@@ -235,7 +235,6 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ## 🎨 Yaratıcı Köşem
 
-Kodlama dışında beni ben yapan birkaç şey:
 - "**İki şey sonsuzdur: evren ve insan aptallığı; ve ben evrenden emin değilim.**" *~Albert Einstein*
 - "**Cesaret, korkusuzluk değil, korkuya rağmen ilerleyebilmektir.**" *~Nelson Mandela*
 - "**Eğer hayal edebiliyorsanız, başarabilirsiniz.**" *~Walt Disney*
