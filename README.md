@@ -119,18 +119,6 @@ Kodlama dışında beni ben yapan birkaç şey:
 
 ---
 
-## 🎮 Küçük Bir Oyun: Bilmece Çöz!
-
-Profilime hoş geldin! Sana küçük bir bilmece hazırladım. Bakalım çözebilecek misin?
-
-**Bilmece:** *Ben bir developer'ım, ama klavyem yok. Kod yazamam, ama bug çözebilirim. Ben neyim?*
-
-Cevabı bulduysan, [buraya tıklayarak](https://github.com/icelaterdc/icelaterdc/issues/new) bir issue aç ve cevabını yaz! Doğru cevabı veren ilk kişi, profilimde özel bir shoutout alacak! 🎉
-
-**İpucu:** Cevap, kodlama dünyasında çokça duyduğun bir terim!
-
----
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   <p><em>Kodlarım dans ediyor, projelerim hayat buluyor!</em></p>
