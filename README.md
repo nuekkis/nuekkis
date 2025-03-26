@@ -37,17 +37,17 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
     </tr>
     <tr>
       <td><strong>Frontend Development</strong></td>
-      <td>Web sitesi, web gömülü mobil veya desktop uygulamalarında kullanırım</td>
+      <td>Web sitesi veya native uygulamaların yapımında kullanırım</td>
       <td>React, TypeScript, HTML5, CSS3, Tailwind</td>
     </tr>
     <tr>
       <td><strong>Backend Development</strong></td>
-      <td>Genellikle Discord bot, Rest API, veritabanı yönetimi veya ufak çaplı basit uygulamalar yapımında kullanırım</td>
+      <td>Genellikle Discord bot, Rest API, veritabanı yönetimi veya ufak çaplı basit uygulamalar vb. yapımında kullanırım</td>
       <td>Node.js, Express, GraphQL</td>
     </tr>
     <tr>
       <td><strong>Full-Stack Development</strong></td>
-      <td>Web siteleri, native uygulamalar veya CMS sistemleri yapımında kullanırım</td>
+      <td>Web siteleri, CMS sistemleri, gömülü web mobil veya desktop uygulamalarında kullanırım</td>
       <td>Next.js, Astro, Vite</td>
     </tr>
     <tr>
