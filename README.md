@@ -8,9 +8,9 @@
 
 ## 🌟 Hakkımda
 
-Selam! Ben **IceLater**, yani kod yazmayı hayatının bir parçası haline getirmiş bir **Full-Stack Developer**. Teknolojiyle oynayıp estetikle harmanlayarak kullanıcı dostu, yaratıcı ve işe yarar web uygulamaları geliştiriyorum. Temiz kod yazmak, karmaşık problemleri çözmek ve her projede kendimi biraz daha zorlamak benim için tam bir tutku. Kodlama benim için işten çok bir sanat, bir macera!
+Selam! Ben **IceLater**, yani kod yazmayı hayatının bir parçası haline getirmiş bir **Full-Stack Developer**. Teknolojiyle oynayıp estetikle harmanlayarak kullanıcı dostu, yaratıcı ve işe projeler geliştiriyorum. Temiz kod yazmak, karmaşık problemleri çözmek ve her projede kendimi biraz daha zorlamak benim için tam bir tutku. Kodlama benim için işten çok bir sanat.
 
-Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açık kaynak projelerde boy göstermeyi ve developer arkadaşlarla bilgi paylaşmayı çok seviyorum. Boş zamanlarımda ise bir kahve alıp bilim kurgu romanlarına gömülmek ya da doğada yürüyüş yapmak favori kaçışlarım. Teknolojiyle dünyayı daha güzel bir yer yapma hedefindeyim ve bu yolda seninle tanışmak beni çok heyecanlandırıyor! Hadi, bu yolculukta beraber bir şeyler yapalım mı?
+Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açık kaynak projelerde boy göstermeyi ve developer arkadaşlarla bilgi paylaşmayı çok seviyorum. Boş zamanlarımda ise bir kahve alıp bilim kurgu filmlerine gömülmek ya da müzik dinlemek favori kaçışlarım.
 
 ---
 
@@ -229,7 +229,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ## ✨ Kodlama Felsefem
 
-> "Kod yazmak benim için bir tablo çizmek gibi: Temiz, anlamlı ve etkileyici olmalı. Her satır bir hikaye anlatmalı ve geleceğe bir iz bırakmalı. Kodlarım, benim imzamdır!"
+> "Kod yazmak bir tablo çizmek gibi: Temiz, anlamlı ve etkileyici olmalı. Her satır bir hikaye anlatmalı ve geleceğe bir iz bırakmalı. Kodlar sanatçının imzasıdır!"
 
 ---
 
@@ -244,7 +244,7 @@ Kodlama dışında beni ben yapan birkaç şey:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-  <p><em>Kodlarım dans ediyor, projelerim hayat buluyor!</em></p>
+  <p><em>Kodlar dans ediyor, projeler hayat buluyor!</em></p>
 </div>
 
 ---
