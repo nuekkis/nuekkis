@@ -25,12 +25,12 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
     </tr>
     <tr>
       <td><strong>Frontend Development</strong></td>
-      <td>Otaya çıkan projenin görsel güzelliğini buna borçluyum.</td>
+      <td>Görsel tasarım projelerimin başlıca mimarlık araçları.</td>
       <td>React, TypeScript, HTML5, CSS3, Tailwind</td>
     </tr>
     <tr>
       <td><strong>Backend Development</strong></td>
-      <td>Projelerin mekaniksel olarak çalışmasını sağlamak bambaşka bir his yaratıyor.</td>
+      <td>Projelerin mekaniksel olarak çalışmasını sağlamak bambaşka bir his.</td>
       <td>Node.js, Express, GraphQL</td>
     </tr>
     <tr>
@@ -234,9 +234,9 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 ## 🎨 Yaratıcı Köşem
 
 Kodlama dışında beni ben yapan birkaç şey:
-- **Bilim Kurgu Romanları:** Geleceği hayal etmek, kod yazarken ufkumu açıyor.
-- **Doğa Yürüyüşleri:** Temiz hava ve yeşillik, kod bloklarını çözmeme yardımcı oluyor.
-- **Kahve ve Kod:** En iyi fikirler kahve kokusuyla geliyor, test edildi onaylandı!
+- "**İki şey sonsuzdur: evren ve insan aptallığı; ve ben evrenden emin değilim.**" *~Albert Einstein*
+- "**Cesaret, korkusuzluk değil, korkuya rağmen ilerleyebilmektir.**" *~Nelson Mandela*
+- "**Eğer hayal edebiliyorsanız, başarabilirsiniz.**" *~Walt Disney*
 
 ---
 
