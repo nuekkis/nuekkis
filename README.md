@@ -13,7 +13,7 @@
 - **Salutation:** He/Him
 - **My Hobbies:** Software, listening to music, watching anime, playing games (usually with stories)
 - **Race:** 🇹🇷/🇷🇺
-- **Things I've Traveled:** 🇦🇿 🇬🇷 🇩🇪 and Cyprus
+- **Things I've Traveled:** 🇬🇷 🇩🇪 and Cyprus
 
 **PORTFOLIO:** Coming Soon
 
