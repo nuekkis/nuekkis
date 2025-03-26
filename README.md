@@ -108,10 +108,6 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ---
 
-## ✨ Kodlama Felsefem
-
-> "Kod yazmak benim için bir tablo çizmek gibi: Temiz, anlamlı ve etkileyici olmalı. Her satır bir h## 📦 NPM Kütüphanelerim
-
 <div align="center">
   <h2>NPM Kütüphanelerim</h2>
 </div>
