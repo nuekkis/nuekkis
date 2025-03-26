@@ -27,12 +27,12 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
     </tr>
     <tr>
       <td><strong>Frontend Development</strong></td>
-      <td>Sanatımın Görünen Yüzü</td>
+      <td>Sanatın Görünen Yüzü</td>
       <td>React, TypeScript, HTML5, CSS3, Tailwind</td>
     </tr>
     <tr>
       <td><strong>Backend Development</strong></td>
-      <td>Sanatımın Hissedilen Tarafı</td>
+      <td>Sanatın Hissedilen Tarafı</td>
       <td>Node.js, Express, GraphQL</td>
     </tr>
     <tr>
