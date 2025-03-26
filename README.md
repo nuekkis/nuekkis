@@ -13,7 +13,7 @@
 - **Pronouns:** He/Him
 - **My Hobbies:** Software, listening to music, watching anime, playing games (usually with stories)
 - **Race:** 🇹🇷/🇷🇺
-- **Countries I've Been To:** 🇬🇷 🇩🇪 and Cyprus
+- **Countries I've Been To:** 🇬🇷 🇩🇪 and North Cyprus
 
 **PORTFOLIO:** Coming Soon
 
