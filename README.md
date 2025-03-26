@@ -47,7 +47,7 @@ When I'm not coding, you can find me exploring new technologies, contributing to
 </div>
 
 
-![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
-
-
 <p><img align="center" src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark" alt="Lantern" width="850px"/></p>
+
+
+![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
