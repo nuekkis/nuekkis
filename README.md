@@ -192,4 +192,4 @@ Kodlama dışında beni ben yapan birkaç şey:
 
 ## Bu Adam Aynı Ben :D
 
-![Connor](https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/connor.png)
+![Connor](https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/connor.gif)
