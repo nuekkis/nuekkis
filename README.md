@@ -8,9 +8,9 @@
 
 ## 🌟 Hakkımda
 
-Selam! Ben **IceLater**, yani kod yazmayı hayatının bir parçası haline getirmiş bir **Full-Stack Developer**. Teknolojiyle oynayıp estetikle harmanlayarak kullanıcı dostu, yaratıcı ve işe yarar web uygulamaları geliştiriyorum. Temiz kod yazmak, karmaşık problemleri çözmek ve her projede kendimi biraz daha zorlamak benim için tam bir tutku. Kodlama benim için işten çok bir sanat, bir macera!
+Selam! Ben **IceLater**, tam bir kodlama aşığıyım ve teknolojiyle uğraşmak beni inanılmaz mutlu ediyor. Full-Stack Developer olarak hem göz alıcı arayüzler tasarlıyor hem de sağlam backend sistemleri kuruyorum. Temiz kod yazmak, karmaşık problemleri çözmek ve her projede kendimi biraz daha geliştirmek benim için bir tutku. Kodlama benim için sadece iş değil, aynı zamanda bir yaşam tarzı!
 
-Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açık kaynak projelerde boy göstermeyi ve developer arkadaşlarla bilgi paylaşmayı çok seviyorum. Boş zamanlarımda ise bir kahve alıp bilim kurgu romanlarına gömülmek ya da doğada yürüyüş yapmak favori kaçışlarım. Teknolojiyle dünyayı daha güzel bir yer yapma hedefindeyim ve bu yolda seninle tanışmak beni çok heyecanlandırıyor! Hadi, bu yolculukta beraber bir şeyler yapalım mı?
+Kod yazmadığım zamanlarda ne mi yapıyorum? Yeni teknolojileri kurcalamayı, açık kaynak projelerde boy göstermeyi ve developer arkadaşlarla fikir alışverişi yapmayı seviyorum. Boş vakitlerimde ise kahvemi alıp bilim kurgu romanlarına gömülmek ya da doğada uzun yürüyüşlere çıkmak favori kaçışlarım. Teknolojiyle dünyayı daha güzel bir yer yapma yolunda seninle tanışmak için sabırsızlanıyorum! Hadi, birlikte bir şeyler üretelim!
 
 ---
 
@@ -25,27 +25,27 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
     </tr>
     <tr>
       <td><strong>Frontend Development</strong></td>
-      <td>Piksel hassasiyetimle kullanıcıyı mutlu eden arayüzler tasarlıyorum. React ve TypeScript ile dinamik projeler benim işim!</td>
+      <td>Kullanıcıyı şaşırtan, güzel ve hızlı arayüzler yapmak benim işim. React ve TypeScript’le harikalar yaratıyorum!</td>
       <td>React, TypeScript, HTML5, CSS3, Tailwind</td>
     </tr>
     <tr>
       <td><strong>Backend Development</strong></td>
-      <td>Sağlam ve ölçeklenebilir sistemlerle projelerin bel kemiğini oluşturuyorum.</td>
+      <td>Projelerin temelini sağlam ve esnek sistemlerle atıyorum.</td>
       <td>Node.js, Express, GraphQL</td>
     </tr>
     <tr>
       <td><strong>Full-Stack Development</strong></td>
-      <td>JAMstack ile uçtan uca projeler yapıyorum. Next.js ile hem hızlıyım hem SEO dostuyum.</td>
+      <td>JAMstack’le uçtan uca projeler geliştiriyorum. Next.js ile hem hız hem SEO garanti!</td>
       <td>Next.js, Astro, Vite</td>
     </tr>
     <tr>
       <td><strong>Veritabanı Yönetimi</strong></td>
-      <td>Veriyi hem güvenli hem hızlı tutmak için SQL ve NoSQL ile çalışıyorum.</td>
+      <td>Veriyi hem güvenli hem de hızlı tutmak için SQL ve NoSQL’le çalışıyorum.</td>
       <td>MongoDB, PostgreSQL, SQLite, Supabase</td>
     </tr>
     <tr>
       <td><strong>DevOps</strong></td>
-      <td>Projelerin bulutta sorunsuz çalışması için dağıtım süreçlerini optimize ediyorum.</td>
+      <td>Projeler bulutta sorunsuz çalışsın diye dağıtım süreçlerini optimize ediyorum.</td>
       <td>Docker, AWS, Azure, Vercel</td>
     </tr>
   </table>
@@ -63,23 +63,13 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" title="HTML" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" title="CSS" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="40" title="Tailwind" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord.js" width="40" title="Discord.js" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" title="MongoDB" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" title="PostgreSQL" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" title="SQLite" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" title="Supabase" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" title="Docker" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" title="Git" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" title="VS Code" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" title="Next.js" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="40" title="Express" />  
-  <img src="https://vitejs.dev/logo.svg" alt="Vite" width="40" title="Vite" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" alt="Astro" width="40" title="Astro" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" title="GraphQL" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" title="NPM" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Terminal" width="40" title="Terminal" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40" title="Vercel" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" alt="ESLint" width="40" title="ESLint" />
 </div>
 
 ---
@@ -104,28 +94,41 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ---
 
-## ✨ Kodlama Felsefem
+## 📦 NPM Kütüphanelerim
 
-> "Kod yazmak benim için bir tablo çizmek gibi: Temiz, anlamlı ve etkileyici olmalı. Her satır bir hikaye anlatmalı ve geleceğe bir iz bırakmalı. Kodlarım, benim imzamdır!"
-
----
-
-## 🎨 Yaratıcı Köşem
-
-Kodlama dışında beni ben yapan birkaç şey:
-- **Bilim Kurgu Romanları:** Geleceği hayal etmek, kod yazarken ufkumu açıyor.
-- **Doğa Yürüyüşleri:** Temiz hava ve yeşillik, kod bloklarını çözmeme yardımcı oluyor.
-- **Kahve ve Kod:** En iyi fikirler kahve kokusuyla geliyor, test edildi onaylandı!
-
----
+Kodlama serüvenimde geliştirdiğim ve senin de projelerinde kullanabileceğin NPM kütüphanelerim şunlar:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-  <p><em>Kodlarım dans ediyor, projelerim hayat buluyor!</em></p>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://www.npmjs.com/package/grokdb">
+          <img src="https://img.shields.io/npm/v/grokdb.svg?style=flat-square&color=CB3837&logo=npm" alt="grokdb" />
+          <p><strong>grokdb</strong></p>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://www.npmjs.com/package/setmusic">
+          <img src="https://img.shields.io/npm/v/setmusic.svg?style=flat-square&color=CB3837&logo=npm" alt="setmusic" />
+          <p><strong>setmusic</strong></p>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+Bu kütüphaneler projelerinde işini kolaylaştırabilir. Daha fazlası için NPM sayfalarına göz atmayı unutma!
+
+---
+
+## 💬 Bilgelik Köşesi
+
+<div align="center">
+  <img src="https://via.placeholder.com/400x100.png?text=%22%C4%B0ki+%C5%9Fey+sonsuzdur%3B+evren+ve+insan%C4%B1n+aptall%C4%B1%C4%9F%C4%B1.+Ve+ben+evrenden+emin+de%C4%9Filim%22+~Albert+Einstein" alt="Einstein Quote" />
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark" alt="Lantern Discord Kartı" width="850px"/>
-</p>
+<div align="center">
+  <p><em>Kodlarım dans ediyor, projelerim hayat buluyor!</em></p>
+</div>
