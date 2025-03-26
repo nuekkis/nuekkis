@@ -217,9 +217,9 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 ## 📬 Bana Ulaşın
 
 <div align="center">
-  <a href="https://linkedin.com/in/icelater"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" alt="LinkedIn" /></a>  
-  <a href="https://twitter.com/icelater"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30" alt="Twitter" /></a>  
-  <a href="https://github.com/icelaterdc"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30" alt="GitHub" /></a>  
+  <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" alt="LinkedIn" /></a>  
+  <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30" alt="Twitter" /></a>  
+  <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30" alt="GitHub" /></a>  
   <p>E-posta: <a href="mailto:icelater@example.com">icelater@example.com</a></p>
 </div>
 
