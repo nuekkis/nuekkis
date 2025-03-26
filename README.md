@@ -187,3 +187,9 @@ Kodlama dışında beni ben yapan birkaç şey:
 <p align="center">
   <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark" alt="Lantern Discord Kartı" width="850px"/>
 </p>
+
+---
+
+## Bu Adam Aynı Ben :D
+
+![Connor](https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/connor.png)
