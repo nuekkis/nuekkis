@@ -99,7 +99,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
           transition: transform 0.2s;
         ">
           <img 
-            src="https://via.placeholder.com/500x200.png?text=Slayer+Bot+Banner"
+            src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/slayerbot.png"
             alt="Slayer Bot Banner"
             style="width: 100%; border-radius: 5px 5px 0 0;"
           />
@@ -123,7 +123,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
           transition: transform 0.2s;
         ">
           <img 
-            src="https://via.placeholder.com/500x200.png?text=npmhub+Banner"
+            src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/60e4bac4.png"
             alt="npmhub Banner"
             style="width: 100%; border-radius: 5px 5px 0 0;"
           />
