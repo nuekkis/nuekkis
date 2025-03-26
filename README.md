@@ -109,7 +109,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
             </a>
           </h3>
           <p style="text-align: center; color: #333;">
-            Discord sunucularınızdaki yönetimi ve eğlenceyi kolaylaştıran kapsamlı bir bot.
+            Sohbet edebileceğiniz ve resim çizidirebileceğiniz, kapsamlı ve geniş komut yelpazesi sunan gelişmiş bir Discord yapay zeka, eğlence ve moderasyon botu.
           </p>
         </div>
       </td>
@@ -133,7 +133,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
             </a>
           </h3>
           <p style="text-align: center; color: #333;">
-            NPM paketlerini tek bir yerde inceleyebileceğiniz, kullanışlı bir web uygulaması.
+            Terminal, bash veya shell kullanmadan NPM kütüphaneleri kodlayabilmenize, indirebilmenize, yayımlayabilmenize ve hata daha fazlasını yapabilmenize olanak sağlayan web aracı.
           </p>
         </div>
       </td>
