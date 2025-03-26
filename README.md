@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/abd-polic.png" alt="IceLater Banner" />
+  <img src="https://via.placeholder.com/800x200.png?text=IceLater's+Code+Universe" alt="IceLater Banner" />
   <h1>Merhaba, Ben IceLater! 🚀</h1>
   <p><em>"Kod yazarken dünyayı yeniden şekillendiriyorum, her satırda bir iz bırakıyorum!"</em></p>
 </div>
@@ -84,7 +84,123 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ---
 
+## 💻 Projelerim
 
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <div style="
+          border: 1px solid #e5e5e5;
+          border-radius: 8px;
+          padding: 20px;
+          margin: 10px;
+          box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+          transition: transform 0.2s;
+        ">
+          <img 
+            src="https://via.placeholder.com/500x200.png?text=Slayer+Bot+Banner"
+            alt="Slayer Bot Banner"
+            style="width: 100%; border-radius: 5px 5px 0 0;"
+          />
+          <h3 style="text-align: center; color: #333;">
+            <a href="https://github.com/OrnekLink/SlayerBot" target="_blank" style="text-decoration: none; color: #CB3837;">
+              Slayer Bot
+            </a>
+          </h3>
+          <p style="text-align: center; color: #333;">
+            Discord sunucularınızdaki yönetimi ve eğlenceyi kolaylaştıran kapsamlı bir bot.
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <div style="
+          border: 1px solid #e5e5e5;
+          border-radius: 8px;
+          padding: 20px;
+          margin: 10px;
+          box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+          transition: transform 0.2s;
+        ">
+          <img 
+            src="https://via.placeholder.com/500x200.png?text=npmhub+Banner"
+            alt="npmhub Banner"
+            style="width: 100%; border-radius: 5px 5px 0 0;"
+          />
+          <h3 style="text-align: center; color: #333;">
+            <a href="https://github.com/OrnekLink/npmhub" target="_blank" style="text-decoration: none; color: #CB3837;">
+              npmhub
+            </a>
+          </h3>
+          <p style="text-align: center; color: #333;">
+            NPM paketlerini tek bir yerde inceleyebileceğiniz, kullanışlı bir web uygulaması.
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 📦 NPM Kütüphanelerim
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <div style="
+          border: 1px solid #e5e5e5;
+          border-radius: 8px;
+          padding: 20px;
+          margin: 10px;
+          box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+          transition: transform 0.2s;
+        ">
+          <img 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" 
+            alt="NPM" 
+            width="50" 
+            style="display: block; margin: 0 auto;"
+          />
+          <h3 style="text-align: center; color: #CB3837;">
+            <a href="https://www.npmjs.com/package/grokdb" target="_blank" style="text-decoration: none; color: #CB3837;">
+              grokdb
+            </a>
+          </h3>
+          <p style="text-align: center; color: #333;">
+            Groove veritabanı yönetimi için özel kütüphane.
+          </p>
+        </div>
+      </td>
+      <td width="50%">
+        <div style="
+          border: 1px solid #e5e5e5;
+          border-radius: 8px;
+          padding: 20px;
+          margin: 10px;
+          box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+          transition: transform 0.2s;
+        ">
+          <img 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" 
+            alt="NPM" 
+            width="50" 
+            style="display: block; margin: 0 auto;"
+          />
+          <h3 style="text-align: center; color: #CB3837;">
+            <a href="https://www.npmjs.com/package/setmusic" target="_blank" style="text-decoration: none; color: #CB3837;">
+              setmusic
+            </a>
+          </h3>
+          <p style="text-align: center; color: #333;">
+            Müzik ayarlarını kolaylaştıran, dinamik kütüphane.
+          </p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -108,63 +224,9 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ---
 
-<div align="center">
-  <h2>NPM Kütüphanelerim</h2>
-</div>
+## ✨ Kodlama Felsefem
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://www.npmjs.com/package/grokdb" target="_blank" style="text-decoration: none;">
-          <div style="
-            border: 1px solid #e5e5e5;
-            border-radius: 8px;
-            padding: 20px;
-            margin: 10px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            transition: transform 0.2s;
-          ">
-            <img 
-              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" 
-              alt="NPM" 
-              width="50" 
-              style="display: block; margin: 0 auto;"
-            />
-            <h3 style="text-align: center; color: #CB3837;">GrokDB</h3>
-            <p style="text-align: center; color: #333;">
-              SQLite & Json kütüphanelerinin yönetimini sağlayan, CLI, migration ve DB dinleyici event sunan veritabanı sarmalayıcısı.
-            </p>
-          </div>
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://www.npmjs.com/package/setmusic" target="_blank" style="text-decoration: none;">
-          <div style="
-            border: 1px solid #e5e5e5;
-            border-radius: 8px;
-            padding: 20px;
-            margin: 10px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-            transition: transform 0.2s;
-          ">
-            <img 
-              src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" 
-              alt="NPM" 
-              width="50" 
-              style="display: block; margin: 0 auto;"
-            />
-            <h3 style="text-align: center; color: #CB3837;">SetMusic</h3>
-            <p style="text-align: center; color: #333;">
-              Müzik çalmak için gerekli olan tüm kütüphaneleri tek modül olarak sunan basit ve kullanışlı Discord müzik botu kütüphanesi.
-            </p>
-          </div>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-ikaye anlatmalı ve geleceğe bir iz bırakmalı. Kodlarım, benim imzamdır!"
+> "Kod yazmak benim için bir tablo çizmek gibi: Temiz, anlamlı ve etkileyici olmalı. Her satır bir hikaye anlatmalı ve geleceğe bir iz bırakmalı. Kodlarım, benim imzamdır!"
 
 ---
 
@@ -187,9 +249,3 @@ Kodlama dışında beni ben yapan birkaç şey:
 <p align="center">
   <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark" alt="Lantern Discord Kartı" width="850px"/>
 </p>
-
----
-
-## Bu Adam Aynı Ben :D
-
-![Connor](https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/connor.gif)
