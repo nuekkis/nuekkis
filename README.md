@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/abd-police.png" alt="IceLater Banner" />
+  <img src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/abd-polic.png" alt="IceLater Banner" />
   <h1>Merhaba, Ben IceLater! 🚀</h1>
   <p><em>"Kod yazarken dünyayı yeniden şekillendiriyorum, her satırda bir iz bırakıyorum!"</em></p>
 </div>
