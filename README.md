@@ -27,28 +27,28 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
     </tr>
     <tr>
       <td><strong>Frontend Development</strong></td>
-      <td>Sanatın Görünen Tarafı</td>
+      <td>Web sitesi, web gömülü mobil veya desktop uygulamalarında kullanırım</td>
       <td>React, TypeScript, HTML5, CSS3, Tailwind</td>
     </tr>
     <tr>
       <td><strong>Backend Development</strong></td>
-      <td>Sanatın Hissedilen Tarafı</td>
+      <td>Genellikle Discord bot, Rest API, veritabanı yönetimi veya ufak çaplı basit uygulamalar yapımında kullanırım</td>
       <td>Node.js, Express, GraphQL</td>
     </tr>
     <tr>
       <td><strong>Full-Stack Development</strong></td>
-      <td>Sanatın ta Kendisi</td>
+      <td>Web siteleri, native uygulamalar veya CMS sistemleri yapımında kullanırım</td>
       <td>Next.js, Astro, Vite</td>
     </tr>
     <tr>
       <td><strong>Veritabanı Yönetimi</strong></td>
-      <td>Sanata Güvenmenin Tarafı</td>
+      <td>Backend, Frontend veya FullStack projelerinin her biri için genellikle farklı veritabanlarını kullanırım</td>
       <td>MongoDB, PostgreSQL, SQLite, Supabase</td>
     </tr>
     <tr>
       <td><strong>DevOps</strong></td>
-      <td>Sanatı Yaşamanın Tarafı</td>
-      <td>Docker, AWS, Azure, Vercel</td>
+      <td>Buluy barındırma, konteynerleştirme, hosting ve serverless ihtiyacında kullanırım</td>
+      <td>Bukut </td>
     </tr>
   </table>
 </div>
