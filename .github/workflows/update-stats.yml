@@ -24,7 +24,7 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run conversion script
+      - name: Run screenshot conversion script
         run: npm run update
 
       - name: Commit and push changes
