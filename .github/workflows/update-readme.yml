@@ -1,0 +1,21 @@
+name: Update README Cards
+
+on:
+  workflow_dispatch:  # Manuel tetikleme için
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Update Timestamps in README
+        run: |
+          TIMESTAMP=$(date +%s)
+          sed -i "s/timestamp=[0-9]*/timestamp=$TIMESTAMP/g" README.md
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "Update card timestamps"
+          git push
