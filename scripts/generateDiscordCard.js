@@ -201,9 +201,10 @@ async function main() {
     </html>
   `;
 
-  // Tarayıcıyı headless: false olarak başlatıyoruz.
+  // Tarayıcıyı headless: false olarak başlatıyoruz, ayrıca executablePath belirtiyoruz.
   const browser = await puppeteer.launch({
     headless: false,
+    executablePath: puppeteer.executablePath(),  // Chromium'un indirilmiş yolunu kullanır
     args: ['--no-sandbox', '--disable-setuid-sandbox']
   });
   const page = await browser.newPage();
