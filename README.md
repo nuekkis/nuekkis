@@ -223,9 +223,13 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
   <img src="https://github-readme-stats.vercel.app/api?username=icelaterdc&show_icons=true&theme=radical&timestamp=1743106589" alt="GitHub Stats" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=icelaterdc&theme=radical&timestamp=1743106589" alt="GitHub Streak" />
-
-  <img src="https://github-profile-trophy.vercel.app/?username=icelaterdc&theme=radical&timestamp=123456789" alt="Githup Trophys" />
 </div>
+
+---
+
+## 🏆 Kupalarım
+
+<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=icelaterdc&theme=radical&timestamp=123456789" alt="Trophys" /></p>
 
 ---
 
