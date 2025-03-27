@@ -260,6 +260,6 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 ---
 
 <p align="center">
-  <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark&cachebuster=202503261230" alt="Lantern Discord Kartı" width="1000px"/>
+  <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=radical" alt="Lantern Discord Kartı" width="850px"/>
 </p>
 
