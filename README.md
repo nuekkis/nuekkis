@@ -218,9 +218,9 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=icelaterdc&show_icons=true&theme=radical&timestamp=1743092600" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=icelaterdc&show_icons=true&theme=radical&timestamp=1743092661" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icelaterdc&theme=radical&timestamp=1743092600" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icelaterdc&theme=radical&timestamp=1743092661" alt="GitHub Streak" />
 </div>
 
 ---
@@ -258,5 +258,5 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 ---
 
 <p align="center">
-  <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark&timestamp=1743092600" alt="Lantern Discord Kartı" width="850px"/>
+  <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark&timestamp=1743092661" alt="Lantern Discord Kartı" width="850px"/>
 </p>
