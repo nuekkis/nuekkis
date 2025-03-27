@@ -1,10 +1,8 @@
 name: Update Discord Card
 
 on:
-  workflow_dispatch:
-  schedule:
-    - cron: '*/5 * * * *'
-
+  workflow_dispatch:  # Manuel tetikleme için
+  
 permissions:
   contents: write
 
