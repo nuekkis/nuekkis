@@ -229,7 +229,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ## 🏆 Kupalarım
 
-<p><img align="left" src="https://github-profile-trophy.vercel.app/?username=icelaterdc&theme=radical&timestamp=123456789" alt="Trophys" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=icelaterdc&theme=radical&timestamp=123456789" alt="Trophys" /></p>
 
 ---
 
