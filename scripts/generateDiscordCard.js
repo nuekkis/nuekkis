@@ -137,7 +137,7 @@ async function main() {
     ? `<div style="height:6rem; width:100%; background-image: url(${discord_user.bannerURL}); background-size: cover; background-position: center; border-top-left-radius: 1rem; border-top-right-radius: 1rem; margin-bottom: 1rem;"></div>`
     : '';
 
-  // Status ikonu konumu (biraz dışarı taşıyoruz)
+  // Kartın HTML içeriği
   const htmlContent = `
     <!DOCTYPE html>
     <html>
@@ -210,18 +210,16 @@ async function main() {
       </body>
     </html>
   `;
-  
-  // Puppeteer ile tarayıcı başlat
+
+  // Puppeteer ile tarayıcı başlat ve kartı oluştur
   const browser = await puppeteer.launch({
     headless: true,
     args: ['--no-sandbox', '--disable-setuid-sandbox']
   });
   const page = await browser.newPage();
   await page.setContent(htmlContent, { waitUntil: 'networkidle0' });
-  // Görsellerin yüklenmesi için ufak bekleme
   await page.waitForTimeout(500);
   const cardElement = await page.$('#card');
-  // PNG çıktısı (şeffaf arka plan için omitBackground:true)
   await cardElement.screenshot({
     path: path.join(__dirname, '..', 'discord-card.png'),
     omitBackground: true
