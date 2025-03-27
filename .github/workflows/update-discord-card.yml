@@ -2,7 +2,7 @@ name: Update Discord Card
 
 on:
   workflow_dispatch:
-
+  
 permissions:
   contents: write
 
