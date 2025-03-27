@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/icelaterr.png" alt="IceLater Banner" />
   <h1>Merhaba, Ben IceLater! 🚀</h1>
-  <p><em>"Kod yazarken dünyayı yeniden şekillendiriyorum, her satırda bir iz bırakıyorum!"</em></p>
+  <p><em>"Kodlarken Eğlenin! Kod Yazmak Bir Sanattır!"</em></p>
 </div>
 
 ---
