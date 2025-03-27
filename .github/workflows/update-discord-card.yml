@@ -35,4 +35,3 @@ jobs:
           git add discord-card.png
           git commit -m "Update discord-card.png" --allow-empty
           git push
-}
