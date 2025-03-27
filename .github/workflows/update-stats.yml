@@ -16,8 +16,16 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Run update script
-        run: bash ./scripts/update-stats.sh
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '16'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run conversion script
+        run: npm run update
 
       - name: Commit and push changes
         run: |
@@ -30,4 +38,3 @@ jobs:
           else
             echo "No changes detected."
           fi
-          
