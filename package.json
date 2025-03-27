@@ -8,6 +8,7 @@
   },
   "dependencies": {
     "puppeteer": "^19.7.5",
+    "puppeteer-core": "^20.x",
     "node-fetch": "^2.7.0",
     "sharp": "^0.32.1"
   }
