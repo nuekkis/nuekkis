@@ -1,8 +1,7 @@
 name: Update Discord Card
 
 on:
-  schedule:
-    - cron: '*/5 * * * *'  # Her 5 dakikada bir tetiklenir
+  workflow_dispatch:
 
 permissions:
   contents: write
