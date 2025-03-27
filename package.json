@@ -1,6 +1,7 @@
 {
   "name": "icelatordc",
   "version": "1.0.0",
+  "main": "scripts/convert-svg-to-png.js",
   "scripts": {
     "generate:card": "node scripts/generateDiscordCard.js",
     "update": "node scripts/convert-svg-to-png.js"
