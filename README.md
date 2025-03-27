@@ -218,6 +218,8 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=icelaterdc&theme=radical&timestamp=123456789" alt="Githup Trophys" />
+  
   <img src="https://github-readme-stats.vercel.app/api?username=icelaterdc&show_icons=true&theme=radical&timestamp=1743106589" alt="GitHub Stats" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=icelaterdc&theme=radical&timestamp=1743106589" alt="GitHub Streak" />
@@ -249,6 +251,10 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 - "**İki şey sonsuzdur: evren ve insan aptallığı; ve ben evrenden emin değilim.**" *~Albert Einstein*
 - "**Cesaret, korkusuzluk değil, korkuya rağmen ilerleyebilmektir.**" *~Nelson Mandela*
 - "**Eğer hayal edebiliyorsanız, başarabilirsiniz.**" *~Walt Disney*
+
+---
+
+<p><img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=123456789" alt="Quotes" /></p>
 
 ---
 
