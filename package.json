@@ -1,15 +1,11 @@
 {
   "name": "icelatordc",
   "version": "1.0.0",
-  "main": "scripts/update-stats.js",
   "scripts": {
-    "generate:card": "node scripts/generateDiscordCard.js",
-    "update": "node scripts/update-stats.js"
+    "generate:card": "node scripts/generateDiscordCard.js"
   },
   "dependencies": {
     "puppeteer": "^19.7.5",
-    "puppeteer-core": "^20.x",
-    "node-fetch": "^2.7.0",
-    "sharp": "^0.32.1"
+    "node-fetch": "^2.7.0"
   }
 }
