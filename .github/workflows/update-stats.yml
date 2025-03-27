@@ -1,0 +1,33 @@
+name: Update Stats & Discord Card Images
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-images:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Run update script
+        run: bash ./scripts/update-stats.sh
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          if [ -n "$(git status --porcelain)" ]; then
+            git add .
+            git commit -m "Update stats and Discord card images [skip ci]"
+            git push
+          else
+            echo "No changes detected."
+          fi
+          
