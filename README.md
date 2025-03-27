@@ -258,7 +258,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ---
 
-<p><img align="left" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=1743111861" alt="Quotes" /></p>
+<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=1743111861" alt="Quotes" /></p>
 
 ---
 
