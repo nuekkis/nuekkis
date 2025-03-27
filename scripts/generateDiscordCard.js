@@ -14,7 +14,6 @@ async function getLanyardData(userId) {
   return json.data;
 }
 
-// Normal süre formatı
 function formatDurationMs(ms) {
   const totalSeconds = Math.floor(ms / 1000);
   const hours = Math.floor(totalSeconds / 3600);
@@ -26,7 +25,6 @@ function formatDurationMs(ms) {
   return `${minutes}:${String(seconds).padStart(2, '0')}`;
 }
 
-// Güvenli süre formatı (NaN'ı engellemek için)
 function safeFormatDurationMs(ms) {
   if (!Number.isFinite(ms) || ms < 0) {
     return '0:00';
@@ -35,25 +33,21 @@ function safeFormatDurationMs(ms) {
 }
 
 async function main() {
-  // Kendi Discord ID'nizi girin
   const userId = '991409937022468169';
   const data = await getLanyardData(userId);
   const currentTime = Date.now();
-  
+
   const { discord_user, activities, discord_status, listening_to_spotify, spotify } = data;
   const displayName = discord_user.display_name || discord_user.global_name || discord_user.username;
   const avatarUrl = `https://cdn.discordapp.com/avatars/${discord_user.id}/${discord_user.avatar}.webp?size=1024`;
 
-  // Custom Status (konuşma balonu)
   const customActivity = activities.find(
     (act) => act.id === 'custom' && act.state && act.state.trim() !== ''
   );
   const customState = customActivity ? customActivity.state : null;
 
-  // Spotify veya diğer etkinlik kartı HTML içeriği
   let cardExtraHTML = '';
   if (listening_to_spotify && spotify) {
-    // Spotify zaman verilerini düzgün parse ediyoruz
     const startNum = typeof spotify.timestamps?.start === 'number' ? spotify.timestamps.start : 0;
     const endNum = typeof spotify.timestamps?.end === 'number' ? spotify.timestamps.end : 0;
     const totalDuration = endNum > startNum ? endNum - startNum : 0;
@@ -90,7 +84,6 @@ async function main() {
       </div>
     `;
   } else {
-    // Spotify dışındaki etkinlik (örnek: bir oyun vs.)
     const currentActivity = activities.find((a) => a.type !== 4);
     if (currentActivity) {
       const largeImage = currentActivity.assets?.large_image || '';
@@ -120,8 +113,7 @@ async function main() {
       `;
     }
   }
-  
-  // Rozetler (badgeMapping)
+
   const badgeMapping = [
     { bit: 1, img: "https://icelater.vercel.app/badges/brilliance.png" },
     { bit: 2, img: "https://icelater.vercel.app/badges/aktif_gelistirici.png" },
@@ -132,12 +124,10 @@ async function main() {
     .map(mapping => `<img src="${mapping.img}" alt="rozet" style="width:1.25rem; height:1.25rem; margin-right:0.5rem;" crossOrigin="anonymous"/>`)
     .join('');
 
-  // Banner varsa
   const bannerHTML = discord_user.bannerURL && discord_user.bannerURL !== ''
     ? `<div style="height:6rem; width:100%; background-image: url(${discord_user.bannerURL}); background-size: cover; background-position: center; border-top-left-radius: 1rem; border-top-right-radius: 1rem; margin-bottom: 1rem;"></div>`
     : '';
 
-  // Kartın HTML içeriği
   const htmlContent = `
     <!DOCTYPE html>
     <html>
@@ -211,9 +201,9 @@ async function main() {
     </html>
   `;
 
-  // Puppeteer ile tarayıcı başlat ve kartı oluştur
+  // Tarayıcıyı headless: false olarak başlatıyoruz.
   const browser = await puppeteer.launch({
-    headless: true,
+    headless: false,
     args: ['--no-sandbox', '--disable-setuid-sandbox']
   });
   const page = await browser.newPage();
