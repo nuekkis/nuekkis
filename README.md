@@ -218,9 +218,9 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 ## 📊 GitHub İstatistiklerim
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=icelaterdc&show_icons=true&locale=en&layout=compact&theme=radical&timestamp=1743134541" alt="Github Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=icelaterdc&show_icons=true&locale=en&layout=compact&theme=radical&timestamp=1743134599" alt="Github Langs" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=icelaterdc&show_icons=true&theme=radical&timestamp=1743134541" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=icelaterdc&show_icons=true&theme=radical&timestamp=1743134599" alt="GitHub Stats" />
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=icelaterdc&theme=radical" alt="GitHub Streak" />
 </div>
@@ -229,7 +229,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ## 🏆 Kupalarım
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=icelaterdc&theme=radical&timestamp=1743134541" alt="Trophys" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=icelaterdc&theme=radical&timestamp=1743134599" alt="Trophys" /></p>
 
 ---
 
@@ -258,7 +258,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ---
 
-<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=1743134541" alt="Quotes" /></p>
+<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=1743134599" alt="Quotes" /></p>
 
 ---
 
@@ -270,5 +270,5 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 ---
 
 <p align="center">
-  <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark&timestamp=1743134541" alt="Lantern Discord Kartı" width="850px"/>
+  <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark&timestamp=1743134599" alt="Lantern Discord Kartı" width="850px"/>
 </p>
