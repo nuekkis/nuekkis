@@ -12,7 +12,7 @@
 - **From:** Türkiye / İzmir
 - **Pronouns:** He / Him
 - **Hobbies:** Software, listening to music, watching anime, playing games (usually with stories)
-- **Race:** 🇹🇷 / 🇷🇺
+- **Race:** 🇹🇷 / 🇷🇺 (Kazan, Republic of Tatarstan)
 
 **PORTFOLIO:** Coming Soon
 
