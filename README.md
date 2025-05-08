@@ -78,7 +78,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" title="PostgreSQL" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" title="SQLite" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" alt="Supabase" width="40" title="Supabase" />
-  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/kotlin/kotlin.svg" alt="Kotlin" width="40" title="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/npm/programming-languages-logos@0.0.3/src/kotlin/kotlin.png" alt="Kotlin" width="40" title="Kotlin" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" title="Docker" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" title="Git" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" title="VS Code" />  
