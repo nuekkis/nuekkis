@@ -9,10 +9,10 @@
 ## 🌟 Hakkımda
 
 - **Age:** 17
-- **From:** Türkiye / İzmir
+- **Live in:** Türkiye / İzmir
 - **Pronouns:** He / Him
 - **Hobbies:** Software, listening to music, watching anime, playing games (usually with stories)
-- **My Race:** 🇹🇷 / 🇷🇺 (Republic of Tatarstan)
+- **My Race:** 🇹🇷 / 🇷🇺 (Tatar Turk)
 
 **PORTFOLIO:** Coming Soon
 
