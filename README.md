@@ -271,3 +271,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 <p align="center">
   <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark&timestamp=1747594638" alt="Lantern Discord Kartı" width="850px"/>
 </p>
+
+---
+
+Burada paylaştığım repolar çoğunlukla kişisel hobi projelerimdir; profesyonel bir hizmet, kurumsal kalite veya hata durumunda resmi bir destek ya da yardım sunmuyorum. Karşılaştığınız sorunları veya geliştirme önerilerinizi lütfen ilgili repoda “Issue” olarak bildirin, boş vakitlerimde inceleyip düzeltmeye çalışacağım.
