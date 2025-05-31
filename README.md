@@ -21,7 +21,7 @@
 - **My Race:** 🇹🇷 / 🇷🇺 (Tatar Turk)  
 - **Hobbies:** Software, listening to music, watching anime, playing games (usually with stories)
 
-- **PORTFOLIO:** Coming Soon
+**PORTFOLIO:** Coming Soon
 
 Selam! Ben **IceLater**, yani kod yazmayı tutku haline getirmiş bir **Full-Stack Developer**. Teknolojiyle oynayıp estetikle harmanlayarak kullanıcı dostu, yaratıcı ve işe yarar projeler geliştiriyorum. Temiz kod yazmak, karmaşık problemleri çözmek ve her projede kendimi biraz daha zorlamak benim için tam bir tutku. Kodlama benim için işten çok bir sanat.
 
