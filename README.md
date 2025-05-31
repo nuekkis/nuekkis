@@ -31,7 +31,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ---
 
-# 🚀 𝓨𝓮𝓽𝓮𝓷𝓮𝓴𝓵𝓮𝓻𝓲𝓶
+# 🚀 𝒀𝒆𝒕𝒆𝒏𝒆𝒌𝒍𝒆𝒓𝒊𝒎
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" title="Node.js" />  
@@ -62,7 +62,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ---
 
-## 💻 Projelerim
+# 💻 𝑷𝒓𝒐𝒋𝒆𝒍𝒆𝒓𝒊𝒎
 
 <div align="center">
   <table>
@@ -121,7 +121,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ---
 
-## 📦 NPM Kütüphanelerim
+## 📦 𝑵𝑷𝑴 𝑲𝒖𝒕𝒖𝒑𝒉𝒂𝒏𝒂𝒍𝒆𝒓𝒊𝒎
 
 <div align="center">
   <table>
@@ -182,7 +182,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ---
 
-## 📊 GitHub İstatistiklerim
+## 📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑰𝒔𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒌𝒍𝒆𝒓𝒊𝒎
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=icelaterdc&show_icons=true&locale=en&layout=compact&theme=radical&timestamp=1748718861" alt="Github Langs" />
@@ -194,13 +194,13 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ---
 
-## 🏆 Kupalarım
+## 🏆 𝑲𝒖𝒑𝒂𝒍𝒂𝒓𝒊𝒎
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=icelaterdc&theme=radical&timestamp=1748718861" alt="Trophys" /></p>
 
 ---
 
-## 📬 Bana Ulaşın
+## 📬 𝑰𝒍𝒆𝒕𝒊𝒔𝒊𝒎
 
 <div align="center">
   <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" alt="LinkedIn" /></a>  
@@ -211,7 +211,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ---
 
-## 🧩 Sözler Köşesi
+## 🧩 𝑺𝒐𝒛𝒍𝒆𝒓 𝑲𝒐𝒔𝒆𝒔𝒊
 
 - "**İki şey sonsuzdur: evren ve insan aptallığı; ve ben evrenden emin değilim.**" *~Albert Einstein*
 - "**Cesaret, korkusuzluk değil, korkuya rağmen ilerleyebilmektir.**" *~Nelson Mandela*
