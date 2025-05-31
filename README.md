@@ -31,7 +31,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ---
 
-## ⚙️ Teknolojiler & Araçlar
+## ⚙️ 𝓨𝓮𝓽𝓮𝓷𝓮𝓴𝓵𝓮𝓻𝓲𝓶
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" title="Node.js" />  
