@@ -238,7 +238,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 Burada paylaştığım repolar çoğunlukla kişisel hobi projelerimdir; profesyonel bir hizmet, kurumsal kalite veya hata durumunda resmi bir destek ya da yardım sunmuyorum. Karşılaştığınız sorunları veya geliştirme önerilerinizi lütfen ilgili repoda “Issue” olarak bildirin, boş vakitlerimde inceleyip düzeltmeye çalışacağım.
 
-```
+<pre><code>
  ／ﾌﾌ 　　　　 　　 　ム｀ヽ  
 / ノ)　　 ∧　　∧　　　　）　ヽ  
 / ｜　　(´・ω ・`）ノ⌒（ゝ._,ノ  
@@ -247,4 +247,4 @@ Burada paylaştığım repolar çoğunlukla kişisel hobi projelerimdir; profesy
 　　 `ヽ `ー-‘人`ーﾉ /  
 　　　 丶 ￣ _人’彡ﾉ  
 　　　 　 ‐ （＿ ﾉ
-```
+</code></pre>
