@@ -210,13 +210,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ---
 
-## ✨ Kodlama Felsefem
-
-> "Kod yazmak bir tablo çizmek gibi: Temiz, anlamlı ve etkileyici olmalı. Her satır bir hikaye anlatmalı ve geleceğe bir iz bırakmalı. Kodlar sanatçının imzasıdır!"
-
----
-
-## 🎨 Yaratıcı Köşem
+## 🧩 Sözler Köşesi
 
 - "**İki şey sonsuzdur: evren ve insan aptallığı; ve ben evrenden emin değilim.**" *~Albert Einstein*
 - "**Cesaret, korkusuzluk değil, korkuya rağmen ilerleyebilmektir.**" *~Nelson Mandela*
