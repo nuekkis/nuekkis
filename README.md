@@ -15,7 +15,7 @@
   width="200"
 />
 
-## 🌟 About Me
+# 🌟 About Me
 
 - **Age:** 17  
 - **Live in:** Türkiye / İzmir  
