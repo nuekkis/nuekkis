@@ -18,15 +18,14 @@
         <li><strong>Hobbies:</strong> Software, listening to music, watching anime, playing games (usually with stories)</li>
         <li><strong>My Race:</strong> 🇹🇷 / 🇷🇺 (Tatar Turk)</li>
       </ul>
+<p><strong>PORTFOLIO:</strong> Coming Soon</p>
 
-      <p><strong>PORTFOLIO:</strong> Coming Soon</p>
+  <p>Selam! Ben <strong>IceLater</strong>, yani kod yazmayı tutku haline getirmiş bir <strong>Full-Stack Developer</strong>. Teknolojiyle oynayıp estetikle harmanlayarak kullanıcı dostu, yaratıcı ve işe yarar projeler geliştiriyorum. Temiz kod yazmak, karmaşık problemleri çözmek ve her projede kendimi biraz daha zorlamak benim için tam bir tutku. Kodlama benim için işten çok bir sanat.</p>
 
-      <p>Selam! Ben <strong>IceLater</strong>, yani kod yazmayı tutku haline getirmiş bir <strong>Full-Stack Developer</strong>. Teknolojiyle oynayıp estetikle harmanlayarak kullanıcı dostu, yaratıcı ve işe yarar projeler geliştiriyorum. Temiz kod yazmak, karmaşık problemleri çözmek ve her projede kendimi biraz daha zorlamak benim için tam bir tutku. Kodlama benim için işten çok bir sanat.</p>
-
-      <p>Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açık kaynak projelerde boy göstermeyi ve developer arkadaşlarla bilgi paylaşmayı çok seviyorum. Boş zamanlarımda ise bir kahve alıp bilim kurgu filmlerine gömülmek ya da müzik dinlemek favori kaçışlarım.</p>
+  <p>Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açık kaynak projelerde boy göstermeyi ve developer arkadaşlarla bilgi paylaşmayı çok seviyorum. Boş zamanlarımda ise bir kahve alıp bilim kurgu filmlerine gömülmek ya da müzik dinlemek favori kaçışlarım.</p>
     </td>
 
-    <td valign="top" width="40%">
+  <td valign="top" width="40%">
       <img 
         src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/img/anime-girl-for-markdown.png" 
         alt="IceLater Banner" 
