@@ -15,6 +15,8 @@
   width="200"
 />
 
+## 🌟 About Me
+
 - **Age:** 17  
 - **Live in:** Türkiye / İzmir  
 - **Pronouns:** He / Him  
