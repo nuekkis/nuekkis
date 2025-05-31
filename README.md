@@ -245,6 +245,6 @@ Burada paylaştığım repolar çoğunlukla kişisel hobi projelerimdir; profesy
 /　ﾉ⌒＿⌒ゝーく　 ＼　　／  
 丶＿ ノ 　　 ノ､　　|　/  
 　　 `ヽ `ー-‘人`ーﾉ /  
-　　　 丶 ￣ _人’彡ﾉ            ❤️ IceLater
-　　　 　 ‐ （＿ ﾉ
+　　　 丶 ￣ _人’彡ﾉ       
+　　　 　 ‐ （＿ ﾉ        ❤️ IceLater
 </code></pre>
