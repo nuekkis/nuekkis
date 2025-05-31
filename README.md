@@ -12,10 +12,8 @@
   src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/img/anime-girl-for-markdown.png" 
   alt="IceLater Banner" 
   align="right" 
-  width="200"
+  width="180"
 />
-
-# 🌟 About Me
 
 - **Age:** 17  
 - **Live in:** Türkiye / İzmir  
