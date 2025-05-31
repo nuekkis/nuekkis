@@ -16,11 +16,11 @@
   width="185"
 />
 
--**Age:** 17 🎂
--**Live in:** Türkiye / İzmir 🇹🇷
--**Pronouns:** He / Him ♂️
--**My Race:** 🇹🇷 / 🇷🇺 (Tatar Turk)
--**Hobbies:** Software, listening to music, watching anime, playing games (usually with stories)
+- **Age:** 17 🎂
+- **Live in:** Türkiye / İzmir 🇹🇷
+- **Pronouns:** He / Him ♂️
+- **My Race:** 🇹🇷 / 🇷🇺 (Tatar Turk)
+- **Hobbies:** Software, listening to music, watching anime, playing games (usually with stories)
 
 **PORTFOLIO:** Coming Soon
 
