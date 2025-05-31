@@ -9,7 +9,7 @@
 <img align="center" src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/img/about-me.png" alt="About Me" /><div>
 
 <img 
-  src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/img/anime-girl-for-right.png" 
+  src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/img/anime-girl-for-markdown.png" 
   alt="Right Anime Girl" 
   align="right" 
   width="180"
