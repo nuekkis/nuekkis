@@ -21,45 +21,6 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ---
 
-## 🛠️ Yetkinliklerim & Uzmanlık Alanlarım
-
-<div align="center">
-  <table>
-    <tr>
-      <th>Alan</th>
-      <th>Açıklama</th>
-      <th>Teknolojiler</th>
-    </tr>
-    <tr>
-      <td><strong>Frontend Development</strong></td>
-      <td>Web sitesi veya native uygulamaların yapımında kullanırım</td>
-      <td>React, TypeScript, HTML5, CSS3, Tailwind</td>
-    </tr>
-    <tr>
-      <td><strong>Backend Development</strong></td>
-      <td>Genellikle Discord bot, Rest API, veritabanı yönetimi veya ufak çaplı basit uygulamalar vb. yapımında kullanırım</td>
-      <td>Node.js, Express, GraphQL</td>
-    </tr>
-    <tr>
-      <td><strong>Full-Stack Development</strong></td>
-      <td>Web siteleri, CMS sistemleri, gömülü web mobil veya desktop uygulamalarında kullanırım</td>
-      <td>Next.js, Astro, Vite</td>
-    </tr>
-    <tr>
-      <td><strong>Veritabanı Yönetimi</strong></td>
-      <td>Backend, Frontend veya FullStack projelerinin her biri için genellikle farklı veritabanlarını kullanırım</td>
-      <td>MongoDB, PostgreSQL, SQLite, Supabase</td>
-    </tr>
-    <tr>
-      <td><strong>DevOps</strong></td>
-      <td>Bulut barındırma, konteynerleştirme, hosting ve serverless ihtiyacında kullanırım</td>
-      <td>Docker, AWS, Azure, Vercel</td>
-    </tr>
-  </table>
-</div>
-
----
-
 ## ⚙️ Teknolojiler & Araçlar
 
 <div align="center">
