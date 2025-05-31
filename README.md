@@ -5,6 +5,10 @@
 
 ---
 
+<p><img align="center" src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/img/welcome-to-my-profile.png" alt="Welcome" /></p>
+
+---
+
 ## 🌟 Hakkımda
 
 - **Age:** 17
