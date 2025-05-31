@@ -13,7 +13,7 @@
   src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/img/anime-girl-for-markdown.png" 
   alt="Right Anime Girl" 
   align="right" 
-  width="180"
+  width="150"
 />
 
 - **Age:** 17 🎂
