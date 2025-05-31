@@ -111,7 +111,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
             </a>
           </h3>
           <p style="text-align: center; color: #333;">
-            Terminal kullanmadan NPM kütüphaneleri kodlayabilmenize, indirebilmenize, yayımlayabilmenize ve daha fazlasını yapabilmenize olanak sağlayan web aracı.
+            Terminal kullanmadan NPM kütüphaneleri kodlayabilmenize, indirebilmenize, yayınlayabilmenize ve daha fazlasını yapabilmenize olanak sağlayan web aracı.
           </p>
         </div>
       </td>
