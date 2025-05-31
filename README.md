@@ -6,7 +6,7 @@
 
 ---
 
-## 🌟 Hakkımda
+<img align="center" src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/img/about-me.png" width="100%" alt="Welcome" /><div>
 
 - **Age:** 17
 - **Live in:** Türkiye / İzmir
