@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/icelaterr.png" width="100%" alt="IceLater Banner" />
+  <h1>Hi There 👋</h1>
 </div>
 
 <img align="center" src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/img/welcome-to-my-profile.png" width="100%" alt="Welcome" /><div>
