@@ -34,7 +34,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 # 🚀 𝒀𝒆𝒕𝒆𝒏𝒆𝒌𝒍𝒆𝒓𝒊𝒎
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" title="Node.js" />      
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" title="Node.js" />                     
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" title="JavaScript" />      
   
