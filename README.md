@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/icelaterr.png" width="100%" alt="IceLater Banner" />
-  <h2>Hi There 👋 This is IceLater <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h2>
+  <h1>Hi There 👋 This is IceLater <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 </div>
 
 <img align="center" src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/img/welcome-to-my-profile.png" width="100%" alt="Welcome" /><div>
@@ -259,7 +259,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 ---
 
 <p align="center">
-    <a href="https://github.com/sponsors/DikaArdnt" target="_blank">
+    <a href="https://github.com/sponsors/icelaterdc" target="_blank">
         <img src="img/mushoku-tensei-chibi.png">
     </a>
 </p>
