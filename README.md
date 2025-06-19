@@ -252,28 +252,21 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-  <p><em>Kodlar dans ediyor, projeler hayat buluyor!</em></p>
-</div>
-
----
-
 <p align="center">
   <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark&timestamp=1750362556" alt="Lantern Discord Kartı" width="850px"/>
 </p>
 
 ---
 
-Burada paylaştığım repolar çoğunlukla kişisel hobi projelerimdir; profesyonel bir hizmet, kurumsal kalite veya hata durumunda resmi bir destek ya da yardım sunmuyorum. Karşılaştığınız sorunları veya geliştirme önerilerinizi lütfen ilgili repoda “Issue” olarak bildirin, boş vakitlerimde inceleyip düzeltmeye çalışacağım.
+<p align="center">
+    <a href="https://github.com/sponsors/DikaArdnt" target="_blank">
+        <img src="img/mushoku-tensei-chibi.png">
+    </a>
+</p>
 
-<pre><code>
- ／ﾌﾌ 　　　　 　　 　ム｀ヽ  
-/ ノ)　　 ∧　　∧　　　　）　ヽ  
-/ ｜　　(´・ω ・`）ノ⌒（ゝ._,ノ  
-/　ﾉ⌒＿⌒ゝーく　 ＼　　／  
-丶＿ ノ 　　 ノ､　　|　/  
-　　 `ヽ `ー-‘人`ーﾉ /  
-　　　 丶 ￣ _人’彡ﾉ       
-　　　 　 ‐ （＿ ﾉ        ❤️ IceLater
-</code></pre>
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <p><em>Designed by ♥️ IceLater</em></p>
+</div>
