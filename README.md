@@ -85,6 +85,30 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ---
 
+## 👻 𝑽𝒊𝒔𝒊𝒕𝒊𝒐𝒓𝒔
+
+<img align="center" src="https://count.getloli.com/@icelaterdc?name=icelaterdc&theme=booru-lewd&timestamp=123456789" width="100%" alt="Visitiors" /><div>
+
+---
+
+## 📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑰𝒔𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒌𝒍𝒆𝒓𝒊𝒎
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=icelaterdc&show_icons=true&locale=en&layout=compact&theme=radical&timestamp=1750361237" alt="Github Langs" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=icelaterdc&show_icons=true&theme=radical&timestamp=1750361237" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icelaterdc&theme=radical&timestamp=1750361237" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 𝑲𝒖𝒑𝒂𝒍𝒂𝒓𝒊𝒎
+
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=icelaterdc&theme=radical&timestamp=1750361237" alt="Trophys" /></p>
+
+---
+
 # 💻 𝑷𝒓𝒐𝒋𝒆𝒍𝒆𝒓𝒊𝒎
 
 <div align="center">
@@ -202,30 +226,6 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
     </tr>
   </table>
 </div>
-
----
-
-## 👻 𝑽𝒊𝒔𝒊𝒕𝒊𝒐𝒓𝒔
-
-<img align="center" src="https://count.getloli.com/@icelaterdc?name=icelaterdc&theme=booru-lewd&timestamp=123456789" width="100%" alt="Visitiors" /><div>
-
----
-
-## 📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑰𝒔𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒌𝒍𝒆𝒓𝒊𝒎
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=icelaterdc&show_icons=true&locale=en&layout=compact&theme=radical&timestamp=1750361237" alt="Github Langs" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=icelaterdc&show_icons=true&theme=radical&timestamp=1750361237" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icelaterdc&theme=radical&timestamp=1750361237" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 𝑲𝒖𝒑𝒂𝒍𝒂𝒓𝒊𝒎
-
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=icelaterdc&theme=radical&timestamp=1750361237" alt="Trophys" /></p>
 
 ---
 
