@@ -205,6 +205,12 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ---
 
+## 👻 𝑽𝒊𝒔𝒊𝒕𝒊𝒐𝒓𝒔
+
+<img align="center" src="https://count.getloli.com/@icelaterdc?name=icelaterdc&theme=booru-lewd&timestamp=123456789" width="100%" alt="Visitiors" /><div>
+
+---
+
 ## 📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑰𝒔𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒌𝒍𝒆𝒓𝒊𝒎
 
 <div align="center">
