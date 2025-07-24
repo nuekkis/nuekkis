@@ -21,7 +21,7 @@
 - **Pronouns:** He / Him ♂️
 - **My Race:** 🇹🇷 / 🇷🇺 (Tatar Turk)
 - **I'm Learning:** Spanish, Russian and German
-- **Developer for:** @ PigeonLoft Studios
+- **Developer for:** @ PigeonLabs Studios
 - **Hobbies:** Software, listening to music, watching anime, playing games (usually with stories)
 
 **PORTFOLIO:** Coming Soon
