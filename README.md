@@ -270,5 +270,5 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-  <p><em>Designed by ♥️ **IceLater**</em></p>
+  <p><em>Designed by ♥️ IceLater</em></p>
 </div>
