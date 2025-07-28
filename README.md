@@ -5,7 +5,7 @@
 
 <img align="center" src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/img/welcome-to-my-profile.png" width="100%" alt="Welcome" /><div>
 
--
+
 
 <img align="center" src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/img/about-me.png" alt="About Me" /><div>
 
@@ -29,7 +29,9 @@
 Selam! Ben **IceLater**, yani kod yazmayı tutku haline getirmiş bir Developer. Teknolojiyle oynayıp estetikle harmanlayarak kullanıcı dostu, yaratıcı ve işe yarar projeler geliştiriyorum. Temiz kod yazmak, karmaşık problemleri çözmek ve her projede kendimi biraz daha zorlamak benim için tam bir tutku. Kodlama benim için işten çok bir sanat.
 
 Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açık kaynak projelerde boy göstermeyi ve developer arkadaşlarla bilgi paylaşmayı çok seviyorum. Boş zamanlarımda ise bir kahve alıp bilim kurgu filmlerine gömülmek ya da müzik dinlemek favori kaçışlarım.
--
+
+
+
 ## Skills
 
 <div align="center">
@@ -81,12 +83,14 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" title="VS Code" />      
 
 </div>
--
+
+
+
 ## Visitiors
 
 <img align="center" src="https://count.getloli.com/@icelaterdc?name=icelaterdc&theme=booru-lewd&timestamp=1753744458" width="100%" alt="Visitiors" /><div>
 
--
+
 
 ## GitHub Stats
 
@@ -98,13 +102,13 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=icelaterdc&theme=radical&timestamp=1753744458" alt="GitHub Streak" />
 </div>
 
--
+
 
 ## Cups
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=icelaterdc&theme=radical&timestamp=1753744458" alt="Trophys" /></p>
 
--
+
 
 ## My Projects
 
@@ -163,7 +167,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
   </table>
 </div>
 
--
+
 
 ## NPM Libraries
 
@@ -224,7 +228,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
   </table>
 </div>
 
--
+
 
 ## Contact
 
@@ -235,7 +239,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
   <p>E-posta: <a href="mailto:icelater@example.com">icelaterforwork@hotmail.com</a></p>
 </div>
 
--
+
 
 ## Words Corner
 
@@ -247,13 +251,13 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 <p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=1753744458" alt="Quotes" /></p>
 
--
+--
 
 <p align="center">
   <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark&timestamp=1753744458" alt="Lantern Discord Kartı" width="850px"/>
 </p>
 
--
+--
 
 <p align="center">
     <a href="https://github.com/sponsors/icelaterdc" target="_blank">
@@ -261,7 +265,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
     </a>
 </p>
 
--
+--
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
