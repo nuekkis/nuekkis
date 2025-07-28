@@ -247,17 +247,16 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 - "**Cesaret, korkusuzluk değil, korkuya rağmen ilerleyebilmektir.**" *~Nelson Mandela*
 - "**Eğer hayal edebiliyorsanız, başarabilirsiniz.**" *~Walt Disney*
 
--
 
 <p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=1753744458" alt="Quotes" /></p>
 
---
+---
 
 <p align="center">
   <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark&timestamp=1753744458" alt="Lantern Discord Kartı" width="850px"/>
 </p>
 
---
+---
 
 <p align="center">
     <a href="https://github.com/sponsors/icelaterdc" target="_blank">
@@ -265,7 +264,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
     </a>
 </p>
 
---
+---
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
