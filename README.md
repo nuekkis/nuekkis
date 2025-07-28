@@ -82,13 +82,11 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" title="VS Code" />      
 
 </div>
-
 <br><br>
 
 ## 👀 Visitiors
 
 <img align="center" src="https://count.getloli.com/@icelaterdc?name=icelaterdc&theme=booru-lewd&timestamp=1753747096" width="100%" alt="Visitiors" /><div>
-
 <br><br>
 
 ## 🌟 GitHub Stats
@@ -100,13 +98,11 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=icelaterdc&theme=radical&timestamp=1753747096" alt="GitHub Streak" />
 </div>
-
 <br><br>
 
 ## 🏆 Cups
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=icelaterdc&theme=radical&timestamp=1753747096" alt="Trophys" /></p>
-
 <br><br>
 
 ## 📚 My Projects
@@ -165,7 +161,6 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
     </tr>
   </table>
 </div>
-
 <br><br>
 
 ## 📦 NPM Packages
@@ -226,7 +221,6 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
     </tr>
   </table>
 </div>
-
 <br><br>
 
 ## ✉️ Contact
@@ -237,7 +231,6 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
   <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30" alt="GitHub" /></a>  
   <p>E-posta: <a href="mailto:icelater@example.com">icelaterforwork@hotmail.com</a></p>
 </div>
-
 <br><br>
 
 ## 🧩 Creative Corner
