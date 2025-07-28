@@ -32,7 +32,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 
 
-## Skills
+# Skills
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" title="Node.js" />                     
@@ -86,13 +86,13 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 
 
-## Visitiors
+# Visitiors
 
 <img align="center" src="https://count.getloli.com/@icelaterdc?name=icelaterdc&theme=booru-lewd&timestamp=1753744458" width="100%" alt="Visitiors" /><div>
 
 
 
-## GitHub Stats
+# GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=icelaterdc&show_icons=true&locale=en&layout=compact&theme=radical&timestamp=1753744458" alt="Github Langs" />
@@ -104,13 +104,13 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 
 
-## Cups
+# Cups
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=icelaterdc&theme=radical&timestamp=1753744458" alt="Trophys" /></p>
 
 
 
-## My Projects
+# My Projects
 
 <div align="center">
   <table>
@@ -169,7 +169,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 
 
-## NPM Libraries
+# NPM Libraries
 
 <div align="center">
   <table>
@@ -230,7 +230,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 
 
-## Contact
+# Contact
 
 <div align="center">
   <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" alt="LinkedIn" /></a>  
@@ -241,7 +241,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 
 
-## Words Corner
+# Words Corner
 
 - "**İki şey sonsuzdur: evren ve insan aptallığı; ve ben evrenden emin değilim.**" *~Albert Einstein*
 - "**Cesaret, korkusuzluk değil, korkuya rağmen ilerleyebilmektir.**" *~Nelson Mandela*
