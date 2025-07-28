@@ -5,7 +5,7 @@
 
 <img align="center" src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/img/welcome-to-my-profile.png" width="100%" alt="Welcome" /><div>
 
----
+-
 
 <img align="center" src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/img/about-me.png" alt="About Me" /><div>
 
@@ -26,12 +26,13 @@
 
 **PORTFOLIO:** Coming Soon
 
-𝚂𝚎𝚕𝚊𝚖! 𝙱𝚎𝚗 **𝙸𝚌𝚎𝙻𝚊𝚝𝚎𝚛**, 𝚢𝚊𝚗𝚒 𝚔𝚘𝚍 𝚢𝚊𝚣𝚖𝚊𝚢ı 𝚝𝚞𝚝𝚔𝚞 𝚑𝚊𝚕𝚒𝚗𝚎 𝚐𝚎𝚝𝚒𝚛𝚖𝚒ş 𝚋𝚒𝚛 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛. 𝚃𝚎𝚔𝚗𝚘𝚕𝚘𝚓𝚒𝚢𝚕𝚎 𝚘𝚢𝚗𝚊𝚢ı𝚙 𝚎𝚜𝚝𝚎𝚝𝚒𝚔𝚕𝚎 𝚑𝚊𝚛𝚖𝚊𝚗𝚕𝚊𝚢𝚊𝚛𝚊𝚔 𝚔𝚞𝚕𝚕𝚊𝚗ı𝚌ı 𝚍𝚘𝚜𝚝𝚞, 𝚢𝚊𝚛𝚊𝚝ı𝚌ı 𝚟𝚎 𝚒ş𝚎 𝚢𝚊𝚛𝚊𝚛 𝚙𝚛𝚘𝚓𝚎𝚕𝚎𝚛 𝚐𝚎𝚕𝚒ş𝚝𝚒𝚛𝚒𝚢𝚘𝚛𝚞𝚖. 𝚃𝚎𝚖𝚒𝚣 𝚔𝚘𝚍 𝚢𝚊𝚣𝚖𝚊𝚔, 𝚔𝚊𝚛𝚖𝚊şı𝚔 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚕𝚎𝚛𝚒 çö𝚣𝚖𝚎𝚔 𝚟𝚎 𝚑𝚎𝚛 𝚙𝚛𝚘𝚓𝚎𝚍𝚎 𝚔𝚎𝚗𝚍𝚒𝚖𝚒 𝚋𝚒𝚛𝚊𝚣 𝚍𝚊𝚑𝚊 𝚣𝚘𝚛𝚕𝚊𝚖𝚊𝚔 𝚋𝚎𝚗𝚒𝚖 𝚒ç𝚒𝚗 𝚝𝚊𝚖 𝚋𝚒𝚛 𝚝𝚞𝚝𝚔𝚞. 𝙺𝚘𝚍𝚕𝚊𝚖𝚊 𝚋𝚎𝚗𝚒𝚖 𝚒ç𝚒𝚗 𝚒ş𝚝𝚎𝚗 ç𝚘𝚔 𝚋𝚒𝚛 𝚜𝚊𝚗𝚊𝚝.𝙿𝚎𝚔𝚒, 𝚔𝚘𝚍 𝚍ışı𝚗𝚍𝚊 𝚗𝚎𝚕𝚎𝚛 𝚖𝚒 𝚢𝚊𝚙ı𝚢𝚘𝚛𝚞𝚖? 𝚈𝚎𝚗𝚒 𝚝𝚎𝚔𝚗𝚘𝚕𝚘𝚓𝚒𝚕𝚎𝚛𝚒 𝚔𝚞𝚛𝚌𝚊𝚕𝚊𝚖𝚊𝚢ı, 𝚊çı𝚔 𝚔𝚊𝚢𝚗𝚊𝚔 𝚙𝚛𝚘𝚓𝚎𝚕𝚎𝚛𝚍𝚎 𝚋𝚘𝚢 𝚐ö𝚜𝚝𝚎𝚛𝚖𝚎𝚢𝚒 𝚟𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚊𝚛𝚔𝚊𝚍𝚊ş𝚕𝚊𝚛𝚕𝚊 𝚋𝚒𝚕𝚐𝚒 𝚙𝚊𝚢𝚕𝚊ş𝚖𝚊𝚢ı ç𝚘𝚔 𝚜𝚎𝚟𝚒𝚢𝚘𝚛𝚞𝚖. 𝙱𝚘ş 𝚣𝚊𝚖𝚊𝚗𝚕𝚊𝚛ı𝚖𝚍𝚊 𝚒𝚜𝚎 𝚋𝚒𝚛 𝚔𝚊𝚑𝚟𝚎 𝚊𝚕ı𝚙 𝚋𝚒𝚕𝚒𝚖 𝚔𝚞𝚛𝚐𝚞 𝚏𝚒𝚕𝚖𝚕𝚎𝚛𝚒𝚗𝚎 𝚐ö𝚖ü𝚕𝚖𝚎𝚔 𝚢𝚊 𝚍𝚊 𝚖ü𝚣𝚒𝚔 𝚍𝚒𝚗𝚕𝚎𝚖𝚎𝚔 𝚏𝚊𝚟𝚘𝚛𝚒 𝚔𝚊çış𝚕𝚊𝚛ı𝚖.
+Selam! Ben **IceLater**, yani kod yazmayı tutku haline getirmiş bir Developer. Teknolojiyle oynayıp estetikle harmanlayarak kullanıcı dostu, yaratıcı ve işe yarar projeler geliştiriyorum. Temiz kod yazmak, karmaşık problemleri çözmek ve her projede kendimi biraz daha zorlamak benim için tam bir tutku. Kodlama benim için işten çok bir sanat.
 
+Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açık kaynak projelerde boy göstermeyi ve developer arkadaşlarla bilgi paylaşmayı çok seviyorum. Boş zamanlarımda ise bir kahve alıp bilim kurgu filmlerine gömülmek ya da müzik dinlemek favori kaçışlarım.
 
----
+-
 
-# 🚀 𝒀𝒆𝒕𝒆𝒏𝒆𝒌𝒍𝒆𝒓𝒊𝒎
+## Skills
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" title="Node.js" />                     
@@ -83,15 +84,15 @@
 
 </div>
 
----
+-
 
-## 👻 𝑽𝒊𝒔𝒊𝒕𝒊𝒐𝒓𝒔
+## Visitiors
 
 <img align="center" src="https://count.getloli.com/@icelaterdc?name=icelaterdc&theme=booru-lewd&timestamp=1753744458" width="100%" alt="Visitiors" /><div>
 
----
+-
 
-## 📊 𝑮𝒊𝒕𝑯𝒖𝒃 𝑰𝒔𝒕𝒂𝒕𝒊𝒔𝒕𝒊𝒌𝒍𝒆𝒓𝒊𝒎
+## GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=icelaterdc&show_icons=true&locale=en&layout=compact&theme=radical&timestamp=1753744458" alt="Github Langs" />
@@ -101,15 +102,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=icelaterdc&theme=radical&timestamp=1753744458" alt="GitHub Streak" />
 </div>
 
----
+-
 
-## 🏆 𝑲𝒖𝒑𝒂𝒍𝒂𝒓𝒊𝒎
+## Cups
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=icelaterdc&theme=radical&timestamp=1753744458" alt="Trophys" /></p>
 
----
+-
 
-# 💻 𝑷𝒓𝒐𝒋𝒆𝒍𝒆𝒓𝒊𝒎
+## My Projects
 
 <div align="center">
   <table>
@@ -166,9 +167,9 @@
   </table>
 </div>
 
----
+-
 
-## 📦 𝑵𝑷𝑴 𝑲𝒖𝒕𝒖𝒑𝒉𝒂𝒏𝒂𝒍𝒆𝒓𝒊𝒎
+## NPM Libraries
 
 <div align="center">
   <table>
@@ -227,9 +228,9 @@
   </table>
 </div>
 
----
+-
 
-## 📬 𝑰𝒍𝒆𝒕𝒊𝒔𝒊𝒎
+## Contact
 
 <div align="center">
   <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" alt="LinkedIn" /></a>  
@@ -238,25 +239,25 @@
   <p>E-posta: <a href="mailto:icelater@example.com">icelaterforwork@hotmail.com</a></p>
 </div>
 
----
+-
 
-## 🧩 𝑺𝒐𝒛𝒍𝒆𝒓 𝑲𝒐𝒔𝒆𝒔𝒊
+## Words Corner
 
 - "**İki şey sonsuzdur: evren ve insan aptallığı; ve ben evrenden emin değilim.**" *~Albert Einstein*
 - "**Cesaret, korkusuzluk değil, korkuya rağmen ilerleyebilmektir.**" *~Nelson Mandela*
 - "**Eğer hayal edebiliyorsanız, başarabilirsiniz.**" *~Walt Disney*
 
----
+-
 
 <p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=1753744458" alt="Quotes" /></p>
 
----
+-
 
 <p align="center">
   <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark&timestamp=1753744458" alt="Lantern Discord Kartı" width="850px"/>
 </p>
 
----
+-
 
 <p align="center">
     <a href="https://github.com/sponsors/icelaterdc" target="_blank">
@@ -264,7 +265,7 @@
     </a>
 </p>
 
----
+-
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
