@@ -4,9 +4,7 @@
 </div>
 
 <img align="center" src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/img/welcome-to-my-profile.png" width="100%" alt="Welcome" /><div>
-
-
-
+<br><br>
 <img align="center" src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/img/about-me.png" alt="About Me" /><div>
 
 <img 
