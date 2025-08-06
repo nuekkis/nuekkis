@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/icelater.png" width="700%" alt="IceLater Banner" />
+  <img src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/icelater.png" width="70%" alt="IceLater Banner" />
   <h1>Hi There 👋 This is IceLater <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 </div>
 
