@@ -17,7 +17,7 @@
 - **Age:** 17 🎂
 - **Live in:** Türkiye / İzmir 
 - **Pronouns:** He / Him ♂️
-- **My Race:** 🇹🇷 / <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_Tatarstan.svg" alt="Tatar Flag" width="25"/>
+- **My Race:** 🇹🇷 / <img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Flag_of_Tatarstan.svg" alt="Tatar Flag" width="25"/>
 - **I'm Learning:** Spanish, Russian and German
 - **Developer for:** @ PigeonLabs Studios
 - **Hobbies:** Software, listening to music, watching anime, playing games (usually with stories)
