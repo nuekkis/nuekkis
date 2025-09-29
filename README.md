@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/icelater.png" width="70%" alt="IceLater Banner" />
-  <h1>Hi There 👋 This is IceLater <img height="35" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
+  <h1>Hi There 👋 This is IceLater <img height="35" alt="nuekkis" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/></h1>
 </div>
 
 <img align="center" src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/img/welcome-to-my-profile.png" width="100%" alt="Welcome" /><div>
@@ -19,7 +19,7 @@
 - **Pronouns:** He / Him ♂️
 - **My Race:** <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Tatar Flag" width="20"/> / <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Old_flag_of_Tatarstan.PNG" alt="Tatar Flag" width="20"/>
 - **I'm Learning:** Spanish, Russian and German
-- **Developer for:** @ PigeonLabs Studios
+- **Developer for:** @ Pega Entertainment
 - **Hobbies:** Software, listening to music, watching anime, playing games (usually with stories)
 
 **PORTFOLIO:** Coming Soon
