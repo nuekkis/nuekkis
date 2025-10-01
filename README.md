@@ -163,62 +163,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ## 📦 NPM Packages
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <div style="
-          border: 1px solid #e5e5e5;
-          border-radius: 8px;
-          padding: 20px;
-          margin: 10px;
-          box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-          transition: transform 0.2s;
-        ">
-          <img 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" 
-            alt="NPM" 
-            width="50" 
-            style="display: block; margin: 0 auto;"
-          />
-          <h3 style="text-align: center; color: #CB3837;">
-            <a href="https://www.npmjs.com/package/grokdb" target="_blank" style="text-decoration: none; color: #CB3837;">
-              GrokDB
-            </a>
-          </h3>
-          <p style="text-align: center; color: #333;">
-            SQLite ve Json verilerini yönetmeye yarayan, CLI, Migration ve DB Event desteği sunan veritabanı sarmalayıcı Npm kütüphanesi.
-          </p>
-        </div>
-      </td>
-      <td width="50%">
-        <div style="
-          border: 1px solid #e5e5e5;
-          border-radius: 8px;
-          padding: 20px;
-          margin: 10px;
-          box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-          transition: transform 0.2s;
-        ">
-          <img 
-            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" 
-            alt="NPM" 
-            width="50" 
-            style="display: block; margin: 0 auto;"
-          />
-          <h3 style="text-align: center; color: #CB3837;">
-            <a href="https://www.npmjs.com/package/setmusic" target="_blank" style="text-decoration: none; color: #CB3837;">
-              SetMusic
-            </a>
-          </h3>
-          <p style="text-align: center; color: #333;">
-            Müzik çalmaya yarayan tüm kütüphaneleri tek bir modülde toplayan basit ve kullanışlı bir Discord bot müzik kütüphanesi.
-          </p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+__[GrokDB]__(https://npmjs.com/package/grokdb):
 <br><br>
 
 ## ✉️ Contact
