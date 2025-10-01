@@ -188,13 +188,13 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 <br><br>
 
-<p align="center">
-  <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark&timestamp=1759345575" alt="Lantern Discord Kartı" width="200%"/>
-</p>
+<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=1759345575" alt="Quotes" /></p>
 
 <br><br>
 
-<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=1759345575" alt="Quotes" /></p>
+<p align="center">
+  <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark&timestamp=1759345575" alt="Lantern Discord Kartı" width="200%"/>
+</p>
 
 ---
 
