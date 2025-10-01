@@ -20,7 +20,7 @@
 - **My Race:** <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Tatar Flag" width="20"/> / <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Old_flag_of_Tatarstan.PNG" alt="Tatar Flag" width="20"/>
 - **I'm Learning:** Spanish, Russian and German
 - **Developer for:** @ Pega Entertainment
-- **Hobbies:** Software, listening to music, watching anime, playing games (usually with stories)
+- **Hobbies:** Software, listening to music, watching anime, playing games, football
 
 **PORTFOLIO:** Coming Soon
 
