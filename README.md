@@ -82,11 +82,6 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 </div>
 <br><br>
 
-## 👀 Visitiors
-
-<img align="center" src="https://count.getloli.com/@icelaterdc?name=icelaterdc&theme=booru-lewd&timestamp=1759345575" width="100%" alt="Visitiors" /><div>
-<br><br>
-
 ## 🌟 GitHub Stats
 
 <div align="center">
@@ -170,13 +165,18 @@ __[GrokDB](https://npmjs.com/package/grokdb)__: GrokDB, Node.js uygulamaları i�
 __[SetMusic](https://npmjs.com/package/setmusic)__: SetMusic, Discord için modüler ve ultra özellikli bir müzik bot kütüphanesidir. Temel kontroller, ses seviyesi ve döngü ayarları, gelişmiş ses efektleri ve filtreleri, kuyruk yönetimi, atlamalı oylama, çalma listesi yönetimi, arama işlevi ve daha fazlasını içeren zengin bir müzik çalma ve kontrol API'si sunar. Bu kütüphane herhangi bir komut veya yerleştirme yapısı gerektirmediğinden, işlevlerini gerektiğinde kendi Discord bot çerçevenize entegre edebilirsiniz.
 <br><br>
 
+## 👀 Visitiors
+
+<img align="center" src="https://count.getloli.com/@icelaterdc?name=icelaterdc&theme=booru-lewd&timestamp=1759345575" width="100%" alt="Visitiors" /><div>
+<br><br>
+
 ## ✉️ Contact
 
 <div align="center">
   <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" width="30" alt="LinkedIn" /></a>  
   <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" width="30" alt="Twitter" /></a>  
   <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="30" alt="GitHub" /></a>  
-  <p>E-posta: <a href="mailto:icelater@example.com">icelaterforwork@hotmail.com</a></p>
+  <p>E-posta: <a href="mailto:nuekkis@outlook.com">nuekkis@outlook.com</a></p>
 </div>
 <br><br>
 
