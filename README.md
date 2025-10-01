@@ -163,7 +163,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ## 📦 NPM Packages
 
-__[GrokDB]__(https://npmjs.com/package/grokdb):
+__[GrokDB](https://npmjs.com/package/grokdb)__:
 <br><br>
 
 ## ✉️ Contact
