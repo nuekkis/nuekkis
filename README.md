@@ -186,25 +186,17 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 - "**Cesaret, korkusuzluk değil, korkuya rağmen ilerleyebilmektir.**" *~Nelson Mandela*
 - "**Eğer hayal edebiliyorsanız, başarabilirsiniz.**" *~Walt Disney*
 
----
+<br><br>
 
 <p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=1759345575" alt="Quotes" /></p>
 
----
+<br><br>
 
 <p align="center">
   <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark&timestamp=1759345575" alt="Lantern Discord Kartı" width="200%"/>
 </p>
 
----
-
-<p align="center">
-    <a href="https://github.com/sponsors/icelaterdc" target="_blank">
-        <img src="img/mushoku-tensei-chibi.png">
-    </a>
-</p>
-
----
+<br><br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
