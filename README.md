@@ -158,11 +158,11 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 
 ## 📦 NPM Packages
 
-__[GuOx-Express](https://npmjs.com/package/guox-express)__: GuOx, sıfır güven ortamları, gerçek zamanlı tehdit azaltma ve ölçeklenebilir güçlendirme stratejileri için tasarlanmış, Express.js için üst düzey, modüler bir güvenlik çerçevesidir; tüm bunlar tek bir içe aktarma veya ince ayarlı yapılandırmayla sağlanır.
+- __[GuOx-Express](https://npmjs.com/package/guox-express)__: GuOx, sıfır güven ortamları, gerçek zamanlı tehdit azaltma ve ölçeklenebilir güçlendirme stratejileri için tasarlanmış, Express.js için üst düzey, modüler bir güvenlik çerçevesidir; tüm bunlar tek bir içe aktarma veya ince ayarlı yapılandırmayla sağlanır.
 
-__[GrokDB](https://npmjs.com/package/grokdb)__: GrokDB, Node.js uygulamaları için yüksek performanslı, güvenli ve özellik açısından zengin bir SQLite veritabanı sarmalayıcısıdır. TypeScript ile oluşturulmuş ve better-sqlite3 tarafından desteklenen bu uygulama, veritabanı işlemleri için modern ve tür açısından güvenli bir arayüz sağlar.
+- __[GrokDB](https://npmjs.com/package/grokdb)__: GrokDB, Node.js uygulamaları için yüksek performanslı, güvenli ve özellik açısından zengin bir SQLite veritabanı sarmalayıcısıdır. TypeScript ile oluşturulmuş ve better-sqlite3 tarafından desteklenen bu uygulama, veritabanı işlemleri için modern ve tür açısından güvenli bir arayüz sağlar.
 
-__[SetMusic](https://npmjs.com/package/setmusic)__: SetMusic, Discord için modüler ve ultra özellikli bir müzik bot kütüphanesidir. Temel kontroller, ses seviyesi ve döngü ayarları, gelişmiş ses efektleri ve filtreleri, kuyruk yönetimi, atlamalı oylama, çalma listesi yönetimi, arama işlevi ve daha fazlasını içeren zengin bir müzik çalma ve kontrol API'si sunar. Bu kütüphane herhangi bir komut veya yerleştirme yapısı gerektirmediğinden, işlevlerini gerektiğinde kendi Discord bot çerçevenize entegre edebilirsiniz.
+- __[SetMusic](https://npmjs.com/package/setmusic)__: SetMusic, Discord için modüler ve ultra özellikli bir müzik bot kütüphanesidir. Temel kontroller, ses seviyesi ve döngü ayarları, gelişmiş ses efektleri ve filtreleri, kuyruk yönetimi, atlamalı oylama, çalma listesi yönetimi, arama işlevi ve daha fazlasını içeren zengin bir müzik çalma ve kontrol API'si sunar. Bu kütüphane herhangi bir komut veya yerleştirme yapısı gerektirmediğinden, işlevlerini gerektiğinde kendi Discord bot çerçevenize entegre edebilirsiniz.
 <br><br>
 
 ## 👀 Visitiors
