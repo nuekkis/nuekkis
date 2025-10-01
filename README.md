@@ -142,17 +142,17 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
           transition: transform 0.2s;
         ">
           <img 
-            src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/60e4bac4.png"
-            alt="npmhub Banner"
+            src="https://raw.githubusercontent.com/icelaterdc/icelaterdc/refs/heads/main/img/pigeonmc.png"
+            alt="PigeonMC Banner"
             style="width: 100%; border-radius: 5px 5px 0 0;"
           />
           <h3 style="text-align: center; color: #333;">
             <a href="" target="_blank" style="text-decoration: none; color: #CB3837;">
-              NpmHub
+              PigeonMC
             </a>
           </h3>
           <p style="text-align: center; color: #333;">
-            Terminal kullanmadan NPM kütüphaneleri kodlayabilmenize, indirebilmenize, yayınlayabilmenize ve daha fazlasını yapabilmenize olanak sağlayan web aracı.
+            Basit kullanımıyla daha çok düşük donanımlı makinalar için optimize edilmiş yüksek performanslı C++ tabanlı bağımsız kullanıcı dostu Minecraft sunucu yazılımı.
           </p>
         </div>
       </td>
