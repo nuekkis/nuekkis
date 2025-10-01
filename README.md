@@ -147,7 +147,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
             </a>
           </h3>
           <p style="text-align: center; color: #333;">
-            Basit kullanımıyla düşük donanımlı makinalar için optimize edilmiş, yüksek performanslı, C++ tabanlı, bağımsız, kullanıcı dostu Minecraft sunucu yazılımı.
+            Basit kullanımıyla düşük donanımlı makinalar için optimize edilmiş, yüksek performanslı, C++ tabanlı, kullanıcı dostu Minecraft sunucu yazılımı.
           </p>
         </div>
       </td>
