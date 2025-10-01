@@ -93,7 +93,7 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 </div>
 <br><br>
 
-## 🏆 Cups
+## 🏆 Trophies
 
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=icelaterdc&theme=radical&timestamp=1759345575" alt="Trophys" /></p>
 <br><br>
