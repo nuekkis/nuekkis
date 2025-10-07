@@ -98,6 +98,11 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 <p><img align="center" src="https://github-profile-trophy.vercel.app/?username=icelaterdc&theme=radical&timestamp=1759865172" alt="Trophys" /></p>
 <br><br>
 
+## 👀 Visitiors
+
+<img align="center" src="https://count.getloli.com/@icelaterdc?name=icelaterdc&theme=booru-lewd&timestamp=1759865172" width="100%" alt="Visitiors" /><div>
+<br><br>
+
 ## 📚 My Projects
 
 <div align="center">
@@ -163,11 +168,6 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 - __[GrokDB](https://npmjs.com/package/grokdb)__: **GrokDB**, **Node.js uygulamaları için** yüksek performanslı, güvenli ve özellik açısından zengin bir **SQLite veritabanı sarmalayıcısıdır**. TypeScript ile oluşturulmuş ve better-sqlite3 tarafından desteklenen bu uygulama, veritabanı işlemleri için modern ve tür açısından güvenli bir arayüz sağlar.
 
 - __[SetMusic](https://npmjs.com/package/setmusic)__: **SetMusic**, **Discord için** modüler ve ultra özellikli bir **müzik bot kütüphanesidir**. Temel kontroller, ses seviyesi ve döngü ayarları, gelişmiş ses efektleri ve filtreleri, kuyruk yönetimi, atlamalı oylama, çalma listesi yönetimi, arama işlevi ve daha fazlasını içeren zengin bir müzik çalma ve kontrol API'si sunar. Bu kütüphane herhangi bir komut veya yerleştirme yapısı gerektirmediğinden, işlevlerini gerektiğinde kendi Discord bot çerçevenize entegre edebilirsiniz.
-<br><br>
-
-## 👀 Visitiors
-
-<img align="center" src="https://count.getloli.com/@icelaterdc?name=icelaterdc&theme=booru-lewd&timestamp=1759865172" width="100%" alt="Visitiors" /><div>
 <br><br>
 
 ## ✉️ Contact
