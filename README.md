@@ -85,22 +85,22 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 ## 🌟 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=icelaterdc&show_icons=true&locale=en&layout=compact&theme=radical&timestamp=1760380693" alt="Github Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=icelaterdc&show_icons=true&locale=en&layout=compact&theme=radical&timestamp=1760380818" alt="Github Langs" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=icelaterdc&show_icons=true&theme=radical&timestamp=1760380693" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=icelaterdc&show_icons=true&theme=radical&timestamp=1760380818" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icelaterdc&theme=radical&timestamp=1760380693" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icelaterdc&theme=radical&timestamp=1760380818" alt="GitHub Streak" />
 </div>
 <br><br>
 
 ## 🏆 Trophies
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=icelaterdc&theme=radical&timestamp=1760380693" alt="Trophys" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=icelaterdc&theme=radical&timestamp=1760380818" alt="Trophys" /></p>
 <br><br>
 
 ## 👀 Visitiors
 
-<img align="center" src="https://count.getloli.com/@icelaterdc?name=icelaterdc&theme=booru-lewd&timestamp=1760380693" width="100%" alt="Visitiors" /><div>
+<img align="center" src="https://count.getloli.com/@icelaterdc?name=icelaterdc&theme=booru-lewd&timestamp=1760380818" width="100%" alt="Visitiors" /><div>
 <br><br>
 
 ## 📚 My Projects
@@ -187,11 +187,11 @@ Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açı
 - "**Eğer hayal edebiliyorsanız, başarabilirsiniz.**" *~Walt Disney*
 <br><br>
 
-<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=1760380693" alt="Quotes" /></p>
+<p><img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=1760380818" alt="Quotes" /></p>
 <br><br>
 
 <p align="center">
-  <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark&timestamp=1760380693" alt="Lantern Discord Kartı" width="200%"/>
+  <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark&timestamp=1760380818" alt="Lantern Discord Kartı" width="200%"/>
 </p>
 
 ---
