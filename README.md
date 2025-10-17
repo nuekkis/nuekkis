@@ -21,9 +21,9 @@
 
 **PORTFOLIO:** Coming Soon
 
-Selam! Ben **IceLater**, yazılımı tutku haline getirmiş bir Developer. Teknolojiyle oynayıp estetikle harmanlayarak kullanıcı dostu, yaratıcı ve işe yarar projeler geliştiriyorum. Temiz kod yazmak, karmaşık problemleri çözmek ve her projede kendimi biraz daha zorlamak benim için tam bir tutku. Kodlama benim için işten çok bir sanat.
+Hi! I'm **nuekkis**, a Developer with a passion for programming. I develop user-friendly, creative and useful projects by playing with technology and blending it with aesthetics. Writing clean code, solving complex problems, and pushing myself harder with every project is a passion of mine.
 
-Peki, kod dışında neler mi yapıyorum? Yeni teknolojileri kurcalamayı, açık kaynak projelerde boy göstermeyi ve developer arkadaşlarla bilgi paylaşmayı çok seviyorum. Boş zamanlarımda ise bir kahve alıp bilim kurgu filmlerine gömülmek ya da müzik dinlemek favori kaçışlarım.
+So, what do I do besides code? I love tinkering with new technologies, participating in open source projects, and sharing knowledge with fellow developers. In my spare time, my favorite escapes are grabbing a coffee, immersing myself in science fiction movies, or listening to music.
 <br><br>
 
 ## 💻 Skills
