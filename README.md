@@ -97,7 +97,7 @@ So, what do I do besides code? I love tinkering with new technologies, participa
 
 ## 👀 Visitiors
 
-<img align="center" src="https://count.getloli.com/@nuekkis?name=icelaterdc&theme=booru-lewd" width="100%" alt="Visitiors" /><div>
+<img align="center" src="https://count.getloli.com/@icelaterdc?name=nuekkis&theme=booru-lewd" width="100%" alt="Visitiors" /><div>
 <br><br>
 
 ## 📚 My Projects
