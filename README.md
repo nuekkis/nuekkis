@@ -82,22 +82,22 @@ So, what do I do besides code? I love tinkering with new technologies, participa
 ## 🌟 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=icelaterdc&show_icons=true&locale=en&layout=compact&theme=radical&timestamp=1760465427" alt="Github Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuekkis&show_icons=true&locale=en&layout=compact&theme=radical" alt="Github Langs" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=icelaterdc&show_icons=true&theme=radical&timestamp=1760465427" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nuekkis&show_icons=true&theme=radical" alt="GitHub Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=icelaterdc&theme=radical&timestamp=1760465427" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuekkis&theme=radical" alt="GitHub Streak" />
 </div>
 <br><br>
 
 ## 🏆 Trophies
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=icelaterdc&theme=radical&timestamp=1760465427" alt="Trophys" /></p>
+<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=nuekkis&theme=radical" alt="Trophys" /></p>
 <br><br>
 
 ## 👀 Visitiors
 
-<img align="center" src="https://count.getloli.com/@icelaterdc?name=icelaterdc&theme=booru-lewd&timestamp=1760465427" width="100%" alt="Visitiors" /><div>
+<img align="center" src="https://count.getloli.com/@nuekkis?name=nuekkis&theme=booru-lewd" width="100%" alt="Visitiors" /><div>
 <br><br>
 
 ## 📚 My Projects
