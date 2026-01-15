@@ -12,10 +12,10 @@
 />
 
 - **Age:** 17 🎂
-- **Live in:** Türkiye / İzmir 
+- **Live in:** Türkiye / İzmir 🇹🇷
 - **Pronouns:** He / Him ♂️
 - **Hobbies:** Software, listening to music, watching anime, playing games, football
-- **PORTFOLIO:** https://nuekkis.xyz
+- **Portfolio:** https://nuekkis.xyz
 
 Hi! I'm **nuekkis**, a Developer with a passion for programming. I develop user-friendly, creative and useful projects by playing with technology and blending it with aesthetics. Writing clean code, solving complex problems, and pushing myself harder with every project is a passion of mine.
 
