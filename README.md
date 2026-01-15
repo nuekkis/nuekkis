@@ -14,12 +14,8 @@
 - **Age:** 17 🎂
 - **Live in:** Türkiye / İzmir 
 - **Pronouns:** He / Him ♂️
-- **My Race:** <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg" alt="Tatar Flag" width="20"/> / <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Old_flag_of_Tatarstan.PNG" alt="Tatar Flag" width="20"/>
-- **I'm Learning:** Spanish, Russian and German
-- **Developer for:** @ Pega Entertainment
 - **Hobbies:** Software, listening to music, watching anime, playing games, football
-
-**PORTFOLIO:** Coming Soon
+- **PORTFOLIO:** https://nuekkis.xyz
 
 Hi! I'm **nuekkis**, a Developer with a passion for programming. I develop user-friendly, creative and useful projects by playing with technology and blending it with aesthetics. Writing clean code, solving complex problems, and pushing myself harder with every project is a passion of mine.
 
