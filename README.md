@@ -88,7 +88,7 @@ So, what do I do besides code? I love tinkering with new technologies, participa
 
 ## 🏆 Trophies
 
-<p><img align="center" src="https://github-profile-trophy.vercel.app/?username=nuekkis&theme=radical" alt="Trophys" /></p>
+<p><img align="center" src="https://github-profile-trophy-ta26.vercel.app/?username=nuekkis&theme=radical" alt="Trophys" /></p>
 <br><br>
 
 ## 👀 Visitiors
