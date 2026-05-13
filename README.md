@@ -187,10 +187,10 @@
   
   <table width="100%" border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <td width="50%" align="center" valign="top">
+      <td width="56%" align="center" valign="top">
         <img src="https://github-readme-stats.shion.dev/api?username=nuekkis&show_icons=true&theme=radical" alt="GitHub Stats" width="96%" />
       </td>
-      <td width="50%" align="center" valign="top">
+      <td width="44%" align="center" valign="top">
         <img src="https://github-readme-stats.shion.dev/api/top-langs?username=nuekkis&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="96%" />
       </td>
     </tr>
