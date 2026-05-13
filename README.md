@@ -243,15 +243,9 @@
 <br/><hr/><br/>
 
 <div align="center">
-  <h3>🎮 Snake Contribution Game</h3>
-  <br/>
-  <img src="https://raw.githubusercontent.com/nuekkis/nuekkis/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</div>
-
-<br/><br/>
-
-<div align="center">
   <img src="https://count.getloli.com/@icelaterdc?name=nuekkis&theme=booru-lewd" alt="Visitors Count" />
+  <br/><br/><br/>
+  <img src="https://raw.githubusercontent.com/nuekkis/nuekkis/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   <br/><br/>
   <p><em>Designed with ♥️ by nuekkis & Antigravity</em></p>
 </div>
