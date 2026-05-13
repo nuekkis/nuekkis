@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&size=38&duration=2400&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+nuekkis+👋;Full-Stack+Developer;Aesthetics+%26+Security+Architect;Innovating+with+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=38&duration=2400&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+nuekkis+👋;Full-Stack+Developer;Aesthetics+%26+Security+Architect;Innovating+with+Code" alt="Typing SVG" />
 
   <p align="center">
     <a href="https://nuekkis.xyz" target="_blank"><img src="https://img.shields.io/badge/Website-nuekkis.xyz-F75C7E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
