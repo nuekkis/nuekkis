@@ -133,7 +133,7 @@
   <table width="100%">
     <tr>
       <td style="padding: 10px 0;">
-        <div style="font-size: 18px; font-weight: bold;">
+        <div style="font-size: 24px; font-weight: bold; margin-bottom: 6px;">
           🛡️ <a href="https://npmjs.com/package/guox-express" style="color: #F75C7E; text-decoration: none;">GuOx-Express</a>
         </div>
         <div style="margin: 5px 0 6px 0;">
@@ -147,7 +147,7 @@
     </tr>
     <tr>
       <td style="padding: 10px 0; border-top: 1px solid #21262d;">
-        <div style="font-size: 18px; font-weight: bold;">
+        <div style="font-size: 24px; font-weight: bold; margin-bottom: 6px;">
           🗄️ <a href="https://npmjs.com/package/grokdb" style="color: #F75C7E; text-decoration: none;">GrokDB</a>
         </div>
         <div style="margin: 5px 0 6px 0;">
@@ -161,7 +161,7 @@
     </tr>
     <tr>
       <td style="padding: 10px 0; border-top: 1px solid #21262d;">
-        <div style="font-size: 18px; font-weight: bold;">
+        <div style="font-size: 24px; font-weight: bold; margin-bottom: 6px;">
           🎵 <a href="https://npmjs.com/package/setmusic" style="color: #F75C7E; text-decoration: none;">SetMusic</a>
         </div>
         <div style="margin: 5px 0 6px 0;">
