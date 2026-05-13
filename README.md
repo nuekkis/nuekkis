@@ -133,9 +133,11 @@
   <table width="100%">
     <tr>
       <td style="padding: 10px 0;">
-        🛡️ <b><a href="https://npmjs.com/package/guox-express" style="color: #F75C7E; text-decoration: none;">GuOx-Express</a></b> 
-        <img src="https://img.shields.io/npm/v/guox-express.svg?style=flat-square&color=F75C7E" /> 
-        <img src="https://img.shields.io/npm/dm/guox-express.svg?style=flat-square&color=63b3ed" />
+        🛡️ <b><a href="https://npmjs.com/package/guox-express" style="color: #F75C7E; text-decoration: none;">GuOx-Express</a></b>
+        <div style="margin: 5px 0;">
+          <img src="https://img.shields.io/npm/v/guox-express.svg?style=flat-square&color=F75C7E" /> 
+          <img src="https://img.shields.io/npm/dm/guox-express.svg?style=flat-square&color=63b3ed" />
+        </div>
         <p style="margin: 4px 0 0 0; color: #8b949e; font-size: 14px; line-height: 1.4;">
           A modular, enterprise-grade security framework designed for Express.js, featuring zero-trust environments and real-time threat mitigation.
         </p>
@@ -143,9 +145,11 @@
     </tr>
     <tr>
       <td style="padding: 10px 0; border-top: 1px solid #21262d;">
-        🗄️ <b><a href="https://npmjs.com/package/grokdb" style="color: #F75C7E; text-decoration: none;">GrokDB</a></b> 
-        <img src="https://img.shields.io/npm/v/grokdb.svg?style=flat-square&color=F75C7E" /> 
-        <img src="https://img.shields.io/npm/dm/grokdb.svg?style=flat-square&color=63b3ed" />
+        🗄️ <b><a href="https://npmjs.com/package/grokdb" style="color: #F75C7E; text-decoration: none;">GrokDB</a></b>
+        <div style="margin: 5px 0;">
+          <img src="https://img.shields.io/npm/v/grokdb.svg?style=flat-square&color=F75C7E" /> 
+          <img src="https://img.shields.io/npm/dm/grokdb.svg?style=flat-square&color=63b3ed" />
+        </div>
         <p style="margin: 4px 0 0 0; color: #8b949e; font-size: 14px; line-height: 1.4;">
           A high-performance, secure, and type-safe SQLite database wrapper for Node.js applications, powered by better-sqlite3.
         </p>
@@ -153,9 +157,11 @@
     </tr>
     <tr>
       <td style="padding: 10px 0; border-top: 1px solid #21262d;">
-        🎵 <b><a href="https://npmjs.com/package/setmusic" style="color: #F75C7E; text-decoration: none;">SetMusic</a></b> 
-        <img src="https://img.shields.io/npm/v/setmusic.svg?style=flat-square&color=F75C7E" /> 
-        <img src="https://img.shields.io/npm/dm/setmusic.svg?style=flat-square&color=63b3ed" />
+        🎵 <b><a href="https://npmjs.com/package/setmusic" style="color: #F75C7E; text-decoration: none;">SetMusic</a></b>
+        <div style="margin: 5px 0;">
+          <img src="https://img.shields.io/npm/v/setmusic.svg?style=flat-square&color=F75C7E" /> 
+          <img src="https://img.shields.io/npm/dm/setmusic.svg?style=flat-square&color=63b3ed" />
+        </div>
         <p style="margin: 4px 0 0 0; color: #8b949e; font-size: 14px; line-height: 1.4;">
           A modular, ultra-featured music bot library for Discord, providing rich playback APIs, advanced audio filters, and queue management.
         </p>
