@@ -196,7 +196,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center" style="padding-top: 16px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuekkis&theme=radical" alt="GitHub Streak" width="97.5%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuekkis&theme=radical" alt="GitHub Streak" width="80%" />
       </td>
     </tr>
     <tr>
