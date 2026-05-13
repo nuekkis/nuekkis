@@ -185,20 +185,26 @@
   <h2>📊 Developer Analytics</h2>
   <br/>
   
-  <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api?username=nuekkis&show_icons=true&theme=radical" alt="GitHub Stats" height="195" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuekkis&theme=radical" alt="GitHub Streak" height="195" />
-  </p>
-  
-  <p align="center">
-    <img src="https://github-readme-stats.shion.dev/api/top-langs?username=nuekkis&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="165" />
-  </p>
-  
-  <br/>
-  
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=nuekkis&theme=radical" alt="Trophies" />
-  </p>
+  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.shion.dev/api?username=nuekkis&show_icons=true&theme=radical" alt="GitHub Stats" width="96%" />
+      </td>
+      <td width="50%" align="center" valign="top">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs?username=nuekkis&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="96%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" style="padding-top: 14px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuekkis&theme=radical" alt="GitHub Streak" width="98%" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" style="padding-top: 14px;">
+        <img src="https://github-profile-trophy.vercel.app/?username=nuekkis&theme=radical" alt="Trophies" width="98%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/><hr/><br/>
