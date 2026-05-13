@@ -220,7 +220,7 @@
   <br/>
   
   <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=1760465427" alt="Quotes" width="480" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=1760465427" alt="Quotes" width="500" />
   </p>
 </div>
 
