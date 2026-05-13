@@ -198,9 +198,14 @@
   <h2>💬 Live Status & Inspiration</h2>
   <br/>
   
-  <p align="center">
-    <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark&timestamp=1760465427" alt="Discord Status" width="650" />
-  </p>
+  <table width="100%" border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="10%"></td>
+      <td align="left">
+        <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark&timestamp=1760465427" alt="Discord Status" width="650" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
