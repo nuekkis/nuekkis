@@ -213,16 +213,15 @@
   <h2>💬 Canlı Durum & İlham / Live Status & Inspiration</h2>
   <br/>
   
-  <table width="100%" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="50%" align="center" valign="middle">
-        <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark&timestamp=1760465427" alt="Discord Status" width="90%" />
-      </td>
-      <td width="50%" align="center" valign="middle">
-        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=1760465427" alt="Quotes" width="90%" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark&timestamp=1760465427" alt="Discord Status" width="500" />
+  </p>
+  
+  <br/>
+  
+  <p align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=1760465427" alt="Quotes" width="480" />
+  </p>
 </div>
 
 <br/>
