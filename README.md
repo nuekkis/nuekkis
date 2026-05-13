@@ -188,10 +188,10 @@
   <table width="100%" border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=nuekkis&show_icons=true&theme=radical" alt="GitHub Stats" width="95%" />
+        <img src="https://github-readme-stats.shion.dev/api?username=nuekkis&show_icons=true&theme=radical" alt="GitHub Stats" width="95%" />
       </td>
       <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nuekkis&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="95%" />
+        <img src="https://github-readme-stats.shion.dev/api/top-langs?username=nuekkis&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="95%" />
       </td>
     </tr>
     <tr>
@@ -201,7 +201,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center" style="padding-top: 16px;">
-        <img src="https://github-profile-trophy-ta26.vercel.app/?username=nuekkis&theme=radical" alt="Trophies" width="97.5%" />
+        <img src="https://github-profile-trophy.vercel.app/?username=nuekkis&theme=radical" alt="Trophies" width="97.5%" />
       </td>
     </tr>
   </table>
