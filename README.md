@@ -199,13 +199,7 @@
   <br/>
   
   <p align="center">
-    <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark&timestamp=1760465427" alt="Discord Status" width="500" />
-  </p>
-  
-  <br/>
-  
-  <p align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&timestamp=1760465427" alt="Quotes" width="500" />
+    <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark&timestamp=1760465427" alt="Discord Status" width="650" />
   </p>
 </div>
 
