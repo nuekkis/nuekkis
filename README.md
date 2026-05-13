@@ -14,12 +14,12 @@
   <table width="100%">
     <tr>
       <td align="center" style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 24px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.4); max-width: 800px;">
-        <h3>📖 Hakkımda / About Me</h3>
+        <h3>📖 About Me</h3>
         <p style="line-height: 1.6; font-size: 15px; color: #c9d1d9;">
-          Ben <b>nuekkis</b>, teknolojiyi estetikle harmanlamayı, yaratıcı ve kullanıcı dostu projeler geliştirmeyi seven tutkulu bir yazılımcıyım. Her projede temiz kod yazmak, karmaşık sorunları çözmek ve güvenli çözümler üretmek en büyük motivasyon kaynağım.
+          Hi! I'm <b>nuekkis</b>, a developer with a passion for building high-quality, secure, and beautiful software. I focus on blending aesthetics with technical power, writing clean code, and solving complex architectural challenges.
         </p>
         <p style="line-height: 1.6; font-size: 15px; color: #8b949e;">
-          I'm <b>nuekkis</b>, a developer with a passion for building high-quality, secure, and beautiful software. I focus on blending aesthetics with technical power, writing clean code, and solving complex architectural challenges.
+          So, what do I do besides coding? I love tinkering with new technologies, participating in open-source projects, and sharing knowledge with fellow developers. In my spare time, you'll find me grabbing a coffee, watching science-fiction movies, or listening to music.
         </p>
         <br/>
         <div align="center">
@@ -36,13 +36,13 @@
 <br/><hr/><br/>
 
 <div align="center">
-  <h2>💻 Teknolojiler / Tech Stack</h2>
+  <h2>💻 Tech Stack</h2>
   <br/>
   
   <table width="100%">
     <tr>
       <td width="50%" valign="top">
-        <h4 align="center">🚀 Diller / Languages</h4>
+        <h4 align="center">🚀 Languages</h4>
         <p align="center">
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -64,7 +64,7 @@
     </tr>
     <tr>
       <td width="50%" valign="top">
-        <h4 align="center">⚙️ Backend & Veritabanı</h4>
+        <h4 align="center">⚙️ Backend & Databases</h4>
         <p align="center">
           <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
           <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
@@ -75,7 +75,7 @@
         </p>
       </td>
       <td width="50%" valign="top">
-        <h4 align="center">🔧 Araçlar & Servisler</h4>
+        <h4 align="center">🔧 Tools & Services</h4>
         <p align="center">
           <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
           <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
@@ -92,7 +92,7 @@
 <br/><hr/><br/>
 
 <div align="center">
-  <h2>🌟 Öne Çıkan Projeler / Featured Projects</h2>
+  <h2>🌟 Featured Projects</h2>
   <br/>
   
   <table width="100%" border="0" cellpadding="0" cellspacing="0">
@@ -105,7 +105,7 @@
               <a href="https://github.com/nuekkis" style="text-decoration: none; color: #F75C7E; font-weight: bold; font-size: 18px;">Slayer Bot 🤖</a>
             </h3>
             <p style="font-size: 13px; color: #8b949e; margin: 0; text-align: center; line-height: 1.5;">
-              Sohbet edebileceğiniz ve resim çizdirebileceğiniz, kapsamlı ve geniş komut yelpazesi sunan gelişmiş bir Discord yapay zeka, eğlence ve moderasyon botu.
+              An advanced Discord AI, entertainment, and moderation bot featuring image generation and conversational chat capabilities.
             </p>
           </div>
           <div align="center" style="margin-top: 8px;">
@@ -123,7 +123,7 @@
               <a href="https://github.com/nuekkis" style="text-decoration: none; color: #F75C7E; font-weight: bold; font-size: 18px;">PigeonMC 🐦</a>
             </h3>
             <p style="font-size: 13px; color: #8b949e; margin: 0; text-align: center; line-height: 1.5;">
-              Basit kullanımıyla düşük donanımlı makinalar için optimize edilmiş, yüksek performanslı, C++ tabanlı, kullanıcı dostu Minecraft sunucu yazılımı.
+              A high-performance, C++ based, user-friendly Minecraft server software optimized for low-end machines.
             </p>
           </div>
           <div align="center" style="margin-top: 8px;">
@@ -140,7 +140,7 @@
 <br/><hr/><br/>
 
 <div align="center">
-  <h2>📦 NPM Paketlerim / NPM Packages</h2>
+  <h2>📦 NPM Packages</h2>
   <br/>
 </div>
 
@@ -152,7 +152,7 @@
         <img src="https://img.shields.io/npm/v/guox-express.svg?style=flat-square&color=F75C7E" /> 
         <img src="https://img.shields.io/npm/dm/guox-express.svg?style=flat-square&color=63b3ed" />
         <p style="margin: 4px 0 0 0; color: #8b949e; font-size: 14px; line-height: 1.4;">
-          Express.js için sıfır güven ortamları, gerçek zamanlı tehdit azaltma ve ölçeklenebilir güçlendirme stratejileri sunan üst düzey, modüler bir güvenlik çerçevesidir.
+          A modular, enterprise-grade security framework designed for Express.js, featuring zero-trust environments and real-time threat mitigation.
         </p>
       </td>
     </tr>
@@ -162,7 +162,7 @@
         <img src="https://img.shields.io/npm/v/grokdb.svg?style=flat-square&color=F75C7E" /> 
         <img src="https://img.shields.io/npm/dm/grokdb.svg?style=flat-square&color=63b3ed" />
         <p style="margin: 4px 0 0 0; color: #8b949e; font-size: 14px; line-height: 1.4;">
-          Node.js uygulamaları için better-sqlite3 destekli, yüksek performanslı, güvenli ve tür güvenli bir SQLite veritabanı sarmalayıcısıdır.
+          A high-performance, secure, and type-safe SQLite database wrapper for Node.js applications, powered by better-sqlite3.
         </p>
       </td>
     </tr>
@@ -172,7 +172,7 @@
         <img src="https://img.shields.io/npm/v/setmusic.svg?style=flat-square&color=F75C7E" /> 
         <img src="https://img.shields.io/npm/dm/setmusic.svg?style=flat-square&color=63b3ed" />
         <p style="margin: 4px 0 0 0; color: #8b949e; font-size: 14px; line-height: 1.4;">
-          Discord için modüler ve ultra özellikli müzik botu kütüphanesidir. Gelişmiş ses filtreleri, çalma listesi ve kuyruk yönetimi sunar.
+          A modular, ultra-featured music bot library for Discord, providing rich playback APIs, advanced audio filters, and queue management.
         </p>
       </td>
     </tr>
@@ -182,7 +182,7 @@
 <br/><hr/><br/>
 
 <div align="center">
-  <h2>📊 İstatistikler & Analitik / Developer Analytics</h2>
+  <h2>📊 Developer Analytics</h2>
   <br/>
   
   <table width="100%" border="0" cellpadding="0" cellspacing="0">
@@ -210,7 +210,7 @@
 <br/><hr/><br/>
 
 <div align="center">
-  <h2>💬 Canlı Durum & İlham / Live Status & Inspiration</h2>
+  <h2>💬 Live Status & Inspiration</h2>
   <br/>
   
   <p align="center">
@@ -227,16 +227,16 @@
 <br/>
 
 <details>
-  <summary><b>🎭 Sevdiğim Sözler / Creative Quotes</b></summary>
+  <summary><b>🎭 Favorite Quotes</b></summary>
   <br/>
   <blockquote>
-    <p><i>"İki şey sonsuzdur: evren ve insan aptallığı; ve ben evrenden emin değilim."</i><br/><b>~ Albert Einstein</b></p>
+    <p><i>"Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."</i><br/><b>~ Albert Einstein</b></p>
   </blockquote>
   <blockquote>
-    <p><i>"Cesaret, korkusuzluk değil, korkuya rağmen ilerleyebilmektir."</i><br/><b>~ Nelson Mandela</b></p>
+    <p><i>"Courage is not the absence of fear, but rather the judgement that something else is more important than fear."</i><br/><b>~ Nelson Mandela</b></p>
   </blockquote>
   <blockquote>
-    <p><i>"Eğer hayal edebiliyorsanız, başarabilirsiniz."</i><br/><b>~ Walt Disney</b></p>
+    <p><i>"If you can dream it, you can do it."</i><br/><b>~ Walt Disney</b></p>
   </blockquote>
 </details>
 
