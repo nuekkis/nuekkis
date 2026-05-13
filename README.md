@@ -187,8 +187,11 @@
   
   <p align="center">
     <img src="https://github-readme-stats.shion.dev/api?username=nuekkis&show_icons=true&theme=radical" alt="GitHub Stats" height="195" />
-    <img src="https://github-readme-stats.shion.dev/api/top-langs?username=nuekkis&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="195" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuekkis&theme=radical" alt="GitHub Streak" height="195" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.shion.dev/api/top-langs?username=nuekkis&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="165" />
   </p>
   
   <br/>
