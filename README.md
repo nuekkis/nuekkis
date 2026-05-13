@@ -211,8 +211,8 @@
 
 <br/>
 
-<details>
-  <summary><b>🎭 Favorite Quotes</b></summary>
+<div align="center">
+  <h3>🎭 Favorite Quotes</h3>
   <br/>
   <blockquote>
     <p><i>"Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."</i><br/><b>~ Albert Einstein</b></p>
@@ -223,7 +223,7 @@
   <blockquote>
     <p><i>"If you can dream it, you can do it."</i><br/><b>~ Walt Disney</b></p>
   </blockquote>
-</details>
+</div>
 
 <br/><hr/><br/>
 
