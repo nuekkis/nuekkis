@@ -105,16 +105,16 @@
           <div>
             <img src="img/pigeonmc.png" alt="PigeonMC" style="width: 100%; border-radius: 8px; max-height: 130px; object-fit: cover;" />
             <h3 style="margin: 12px 0 6px 0; text-align: center;">
-              <a href="https://github.com/nuekkis" style="text-decoration: none; color: #F75C7E; font-weight: bold; font-size: 18px;">PigeonMC 🐦</a>
+              <a href="https://github.com/Oxiron-Development/OX-Cloner" style="text-decoration: none; color: #F75C7E; font-weight: bold; font-size: 18px;">OX Cloner</a>
             </h3>
             <p style="font-size: 13px; color: #8b949e; margin: 0; text-align: center; line-height: 1.5;">
-              A high-performance, C++ based, user-friendly Minecraft server software optimized for low-end machines.
+              Copy the source server specified by its ID to the target server using the Discord user account token.
             </p>
           </div>
           <div align="center" style="margin-top: 8px;">
-            <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="18" />
-            <img src="https://img.shields.io/badge/Minecraft-Server-red?style=flat-square" height="18" />
-            <img src="https://img.shields.io/badge/Performance-High-brightgreen?style=flat-square" height="18" />
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="18" />
+            <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" height="18" />
+            <img src="https://img.shields.io/badge/Server_Cloner-Automation-blueviolet?style=flat-square" height="18" />
           </div>
         </div>
       </td>
