@@ -103,7 +103,7 @@
       <td width="50%" valign="top">
         <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 18px; margin: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); height: 340px; display: flex; flex-direction: column; justify-content: space-between;">
           <div>
-            <img src="img/pigeonmc.png" alt="PigeonMC" style="width: 100%; border-radius: 8px; max-height: 130px; object-fit: cover;" />
+            <img src="oxcloner-preview.png" alt="PigeonMC" style="width: 100%; border-radius: 8px; max-height: 130px; object-fit: cover;" />
             <h3 style="margin: 12px 0 6px 0; text-align: center;">
               <a href="https://github.com/Oxiron-Development/OX-Cloner" style="text-decoration: none; color: #F75C7E; font-weight: bold; font-size: 18px;">OX Cloner</a>
             </h3>
@@ -114,7 +114,7 @@
           <div align="center" style="margin-top: 8px;">
             <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="18" />
             <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" height="18" />
-            <img src="https://img.shields.io/badge/Server_Cloner-Automation-blueviolet?style=flat-square" height="18" />
+            <img src="https://img.shields.io/badge/Cloner-Automation-blueviolet?style=flat-square" height="18" />
           </div>
         </div>
       </td>
