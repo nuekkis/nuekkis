@@ -85,18 +85,18 @@
       <td width="50%" valign="top">
         <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 18px; margin: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); height: 340px; display: flex; flex-direction: column; justify-content: space-between;">
           <div>
-            <img src="slayerbot.png" alt="Slayer Bot" style="width: 100%; border-radius: 8px; max-height: 130px; object-fit: cover;" />
+            <img src="oxiron-preview.png" alt="OxironAPI" style="width: 100%; border-radius: 8px; max-height: 130px; object-fit: cover;" />
             <h3 style="margin: 12px 0 6px 0; text-align: center;">
-              <a href="https://github.com/nuekkis" style="text-decoration: none; color: #F75C7E; font-weight: bold; font-size: 18px;">Slayer Bot 🤖</a>
+              <a href="https://github.com/nuekkis" style="text-decoration: none; color: #F75C7E; font-weight: bold; font-size: 18px;">OxironAPI ⚡</a>
             </h3>
             <p style="font-size: 13px; color: #8b949e; margin: 0; text-align: center; line-height: 1.5;">
-              An advanced Discord AI, entertainment, and moderation bot featuring image generation and conversational chat capabilities.
+              A fast, modular, and secure API framework built for scalable backend services with clean developer ergonomics.
             </p>
           </div>
           <div align="center" style="margin-top: 8px;">
             <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="18" />
-            <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" height="18" />
-            <img src="https://img.shields.io/badge/AI-OpenAI-orange?style=flat-square" height="18" />
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="18" />
+            <img src="https://img.shields.io/badge/API-REST-orange?style=flat-square" height="18" />
           </div>
         </div>
       </td>
@@ -181,27 +181,14 @@
 <div align="center">
   <h2>📊 Developer Analytics</h2>
   <br/>
-  
-  <table width="100%" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="58%" align="center" valign="top">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuekkis&theme=radical" alt="GitHub Streak" width="96%" />
-      </td>
-      <td width="42%" align="center" valign="top">
-        <img src="https://github-readme-stats.shion.dev/api/top-langs?username=nuekkis&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="96%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" style="padding-top: 14px;">
-        <img src="https://github-readme-stats.shion.dev/api?username=nuekkis&show_icons=true&theme=radical" alt="GitHub Stats" width="98%" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center" style="padding-top: 14px;">
-        <img src="https://github-profile-trophy.vercel.app/?username=nuekkis&theme=radical" alt="Trophies" width="98%" />
-      </td>
-    </tr>
-  </table>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuekkis&theme=radical" alt="GitHub Streak" width="600" />
+  <br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=nuekkis&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" width="600" />
+  <br/><br/>
+  <img src="https://github-readme-stats.shion.dev/api?username=nuekkis&show_icons=true&theme=radical" alt="GitHub Stats" width="600" />
+  <br/><br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=nuekkis&theme=radical" alt="Trophies" width="600" />
 </div>
 
 <br/><hr/><br/>
