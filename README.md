@@ -185,7 +185,7 @@
   <br/><br/>
   <img src="https://github-readme-stats.shion.dev/api?username=nuekkis&show_icons=true&theme=radical" alt="GitHub Stats" width="600" />
   <br/><br/>
-  <img src="https://nuekkis-github-profile-trophy.vercel.app/?username=nuekkis&theme=radical" alt="Trophies" width="600" />
+  <img src="https://github-profile-trophy.vercel.app/?username=nuekkis&theme=radical" alt="Trophies" width="600" />
 </div>
 
 <br/><hr/><br/>
