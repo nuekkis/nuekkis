@@ -188,35 +188,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=nuekkis&theme=radical" alt="Trophies" width="600" />
 </div>
 
-<br/><hr/><br/>
-
-<div align="center">
-  <h2>💬 Live Status & Inspiration</h2>
-  <br/>
-  
-  <p align="center">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://lantern.rest/api/v1/users/991409937022468169?svg=1&theme=dark&timestamp=1760465427" alt="Discord Status" width="650" />
-  </p>
-</div>
-
 <br/>
-
-<div align="center">
-  <h3>🎭 Favorite Quotes</h3>
-  <br/>
-  <blockquote>
-    <p><i>"Two things are infinite: the universe and human stupidity; and I'm not sure about the universe."</i><br/><b>~ Albert Einstein</b></p>
-  </blockquote>
-  <blockquote>
-    <p><i>"Courage is not the absence of fear, but rather the judgement that something else is more important than fear."</i><br/><b>~ Nelson Mandela</b></p>
-  </blockquote>
-  <blockquote>
-    <p><i>"If you can dream it, you can do it."</i><br/><b>~ Walt Disney</b></p>
-  </blockquote>
-</div>
-
-<br/><hr/><br/>
 
 <div align="center">
   <img src="https://count.getloli.com/@icelaterdc?name=nuekkis&theme=booru-lewd" alt="Visitors Count" />
