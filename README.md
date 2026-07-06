@@ -181,15 +181,15 @@
   <h2>📊 Developer Analytics</h2>
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuekkis&theme=radical" alt="GitHub Streak" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuekkis&theme=radical" alt="GitHub Streak" width="500" />
   <br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api?username=nuekkis&show_icons=true&theme=radical" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.shion.dev/api?username=nuekkis&show_icons=true&theme=radical" alt="GitHub Stats" width="500" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://count.getloli.com/@icelaterdc?name=nuekkis&theme=booru-lewd" alt="Visitors Count" style="width: 60%; height: auto;" />
+  <img src="https://count.getloli.com/@icelaterdc?name=nuekkis&theme=booru-lewd" alt="Visitors Count" style="width: 75%; height: auto;" />
   <br/><br/><br/>
   <img src="https://raw.githubusercontent.com/nuekkis/nuekkis/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   <br/><br/>
