@@ -33,7 +33,7 @@
   </table>
 </div>
 
-<br/><hr/><br/>
+<br/>
 
 <div align="center">
   <h2>💻 Tech Stack</h2>
@@ -73,7 +73,7 @@
   </p>
 </div>
 
-<br/><hr/><br/>
+<br/>
 
 <div align="center">
   <h2>🌟 Featured Projects</h2>
@@ -121,7 +121,7 @@
   </table>
 </div>
 
-<br/><hr/><br/>
+<br/>
 
 <div align="center">
   <h2>📊 Developer Analytics</h2>
