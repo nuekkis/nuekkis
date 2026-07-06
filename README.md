@@ -79,46 +79,29 @@
   <h2>ꜰᴇᴀᴛᴜʀᴇᴅ ᴘʀᴏᴊᴇᴄᴛꜱ</h2>
   <br/>
   
-  <table width="100%" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="50%" valign="top">
-        <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 18px; margin: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); height: 340px; display: flex; flex-direction: column; justify-content: space-between;">
-          <div>
-            <img src="oxiron-preview.png" alt="OxironAPI" style="width: 100%; border-radius: 8px; max-height: 130px; object-fit: cover;" />
-            <h3 style="margin: 12px 0 6px 0; text-align: center;">
-              <a href="https://github.com/nuekkis" style="text-decoration: none; color: #F75C7E; font-weight: bold; font-size: 18px;">Oxiron API</a>
-            </h3>
-            <p style="font-size: 13px; color: #8b949e; margin: 0; text-align: center; line-height: 1.5;">
-              A fast, modular, and secure API framework built for scalable backend services with clean developer ergonomics.
-            </p>
-          </div>
-          <div align="center" style="margin-top: 8px;">
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="18" />
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="18" />
-            <img src="https://img.shields.io/badge/API-REST-orange?style=flat-square" height="18" />
-          </div>
-        </div>
-      </td>
-      <td width="50%" valign="top">
-        <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 18px; margin: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); height: 340px; display: flex; flex-direction: column; justify-content: space-between;">
-          <div>
-            <img src="oxcloner-preview.png" alt="PigeonMC" style="width: 100%; border-radius: 8px; max-height: 130px; object-fit: cover;" />
-            <h3 style="margin: 12px 0 6px 0; text-align: center;">
-              <a href="https://github.com/Oxiron-Development/OX-Cloner" style="text-decoration: none; color: #F75C7E; font-weight: bold; font-size: 18px;">OX Cloner </a>
-            </h3>
-            <p style="font-size: 13px; color: #8b949e; margin: 0; text-align: center; line-height: 1.5;">
-              Copy the source server specified by its ID to the target server using the Discord user account token.
-            </p>
-          </div>
-          <div align="center" style="margin-top: 8px;">
-            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="18" />
-            <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" height="18" />
-            <img src="https://img.shields.io/badge/Cloner-Automation-blueviolet?style=flat-square" height="18" />
-          </div>
-        </div>
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; max-width: 850px;">
+    <!-- Oxiron API Kartı -->
+    <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 18px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); width: 380px; min-height: 250px; display: flex; flex-direction: column; justify-content: flex-start;">
+      <img src="oxiron-preview.png" alt="OxironAPI" style="width: 100%; border-radius: 8px; max-height: 130px; object-fit: cover;" />
+      <h3 style="margin: 12px 0 6px 0; text-align: center;">
+        <a href="https://github.com/nuekkis" style="text-decoration: none; color: #F75C7E; font-weight: bold; font-size: 18px;">Oxiron API</a>
+      </h3>
+      <p style="font-size: 13px; color: #8b949e; margin: 0; text-align: center; line-height: 1.5;">
+        A fast, modular, and secure API framework built for scalable backend services with clean developer ergonomics.
+      </p>
+    </div>
+
+    <!-- OX Cloner Kartı -->
+    <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 18px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); width: 380px; min-height: 250px; display: flex; flex-direction: column; justify-content: flex-start;">
+      <img src="oxcloner-preview.png" alt="PigeonMC" style="width: 100%; border-radius: 8px; max-height: 130px; object-fit: cover;" />
+      <h3 style="margin: 12px 0 6px 0; text-align: center;">
+        <a href="https://github.com/Oxiron-Development/OX-Cloner" style="text-decoration: none; color: #F75C7E; font-weight: bold; font-size: 18px;">OX Cloner</a>
+      </h3>
+      <p style="font-size: 13px; color: #8b949e; margin: 0; text-align: center; line-height: 1.5;">
+        Copy the source server specified by its ID to the target server using the Discord user account token.
+      </p>
+    </div>
+  </div>
 </div>
 
 <br/>
