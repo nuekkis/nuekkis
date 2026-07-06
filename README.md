@@ -37,11 +37,22 @@
 <div align="center">
   <h2>ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ</h2>
   <br/>
-  <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cs,rust,react,nextjs,astro,tailwind,vite,electron,tauri,nodejs,express,nestjs,graphql,supabase,postgres,mongodb,mysql,sqlite,redis,prisma,docker,kubernetes,nginx,git,github,githubactions,linux,aws,gcp,azure,postman,regex,jest,vscode,idea,vercel,eslint,codepen,replit,cloudflare,figma" />
+  
+  <!-- 1. Satır (15 İkon) -->
+  <p style="margin: 0;">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cs,rust,react,nextjs,astro,tailwind,vite,electron,tauri,nodejs" />
+  </p>
+  
+  <!-- 2. Satır (15 İkon) -->
+  <p style="margin: 0;">
+    <img src="https://skillicons.dev/icons?i=express,nestjs,graphql,supabase,postgres,mongodb,mysql,sqlite,redis,prisma,docker,kubernetes,nginx,git,github" />
+  </p>
+  
+  <!-- 3. Satır (15 İkon) -->
+  <p style="margin: 0;">
+    <img src="https://skillicons.dev/icons?i=githubactions,linux,aws,gcp,azure,postman,regex,jest,vscode,idea,vercel,eslint,codepen,replit,cloudflare,figma" />
   </p>
 </div>
-
 <br/>
 
 <div align="center">
