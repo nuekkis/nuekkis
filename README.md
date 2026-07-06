@@ -14,7 +14,7 @@
   <table width="100%">
     <tr>
       <td align="center" style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 24px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.4); max-width: 800px;">
-        <h3>📖 About Me</h3>
+        <h3>ᴀʙᴏᴜᴛ ᴍᴇ</h3>
         <p style="line-height: 1.6; font-size: 15px; color: #c9d1d9;">
           Hi! I'm <b>nuekkis</b>, a developer with a passion for building high-quality, secure, and beautiful software. I focus on blending aesthetics with technical power, writing clean code, and solving complex architectural challenges.
         </p>
@@ -36,7 +36,7 @@
 <br/>
 
 <div align="center">
-  <h2>💻 Tech Stack</h2>
+  <h2>ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ</h2>
   <br/>
   
   <p>
@@ -76,7 +76,7 @@
 <br/>
 
 <div align="center">
-  <h2>🌟 Featured Projects</h2>
+  <h2>ꜰᴇᴀᴛᴜʀᴇᴅ ᴘʀᴏᴊᴇᴄᴛꜱ</h2>
   <br/>
   
   <table width="100%" border="0" cellpadding="0" cellspacing="0">
@@ -124,7 +124,7 @@
 <br/>
 
 <div align="center">
-  <h2>📊 Developer Analytics</h2>
+  <h2>ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴀʟʏᴛɪᴄꜱ</h2>
   <br/>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 700px;">
