@@ -14,7 +14,7 @@
   <table width="100%">
     <tr>
       <td align="center" style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 24px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.4); max-width: 800px;">
-        <h3>ᴀʙᴏᴜᴛ ᴍᴇ</h3>
+        <h3>Aʙᴏᴜᴛ Mᴇ</h3>
         <p style="line-height: 1.6; font-size: 15px; color: #c9d1d9;">
           Hi! I'm <b>nuekkis</b>, a developer with a passion for building high-quality, secure, and beautiful software. I focus on blending aesthetics with technical power, writing clean code, and solving complex architectural challenges.
         </p>
@@ -36,7 +36,7 @@
 <br/>
 
 <div align="center">
-  <h2>ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ</h2>
+  <h2>Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
   <br/>
   
   <p>
@@ -76,12 +76,12 @@
 <br/>
 
 <div align="center">
-  <h2>ꜰᴇᴀᴛᴜʀᴇᴅ ᴘʀᴏᴊᴇᴄᴛꜱ</h2>
+  <h2>Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs</h2>
   <br/>
   
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 16px; max-width: 850px;">
-    <!-- Oxiron API Kartı -->
-    <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 18px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); width: 380px; min-height: 250px; display: flex; flex-direction: column; justify-content: flex-start;">
+  <div style="max-width: 820px;">
+    <!-- Oxiron API -->
+    <div align="left" style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); width: 380px; margin: 10px; display: inline-block; vertical-align: top;">
       <img src="oxiron-preview.png" alt="OxironAPI" style="width: 100%; border-radius: 8px; max-height: 130px; object-fit: cover;" />
       <h3 style="margin: 12px 0 6px 0; text-align: center;">
         <a href="https://github.com/nuekkis" style="text-decoration: none; color: #F75C7E; font-weight: bold; font-size: 18px;">Oxiron API</a>
@@ -91,8 +91,8 @@
       </p>
     </div>
 
-    <!-- OX Cloner Kartı -->
-    <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 18px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); width: 380px; min-height: 250px; display: flex; flex-direction: column; justify-content: flex-start;">
+    <!-- OX Cloner -->
+    <div align="right" style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); width: 380px; margin: 10px; display: inline-block; vertical-align: top;">
       <img src="oxcloner-preview.png" alt="PigeonMC" style="width: 100%; border-radius: 8px; max-height: 130px; object-fit: cover;" />
       <h3 style="margin: 12px 0 6px 0; text-align: center;">
         <a href="https://github.com/Oxiron-Development/OX-Cloner" style="text-decoration: none; color: #F75C7E; font-weight: bold; font-size: 18px;">OX Cloner</a>
@@ -107,12 +107,16 @@
 <br/>
 
 <div align="center">
-  <h2>ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴀʟʏᴛɪᴄꜱ</h2>
+  <h2>Dᴇᴠᴇʟᴏᴘᴇʀ Aɴᴀʟʏᴛɪᴄs</h2>
   <br/>
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 700px;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuekkis&theme=radical" alt="GitHub Streak" style="width: 400px; height: auto;" />
-    <img src="https://github-readme-stats.shion.dev/api?username=nuekkis&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 400px; height: auto;" />
+  <div style="max-width: 840px;">
+    <div style="display: inline-block; margin: 10px; vertical-align: top;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuekkis&theme=radical" alt="GitHub Streak" width="380" />
+    </div>
+    <div style="display: inline-block; margin: 10px; vertical-align: top;">
+      <img src="https://github-readme-stats.shion.dev/api?username=nuekkis&show_icons=true&theme=radical" alt="GitHub Stats" width="380" />
+    </div>
   </div>
 </div>
 
