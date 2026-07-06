@@ -189,7 +189,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://count.getloli.com/@icelaterdc?name=nuekkis&theme=booru-lewd" alt="Visitors Count" style="width: 100%; height: auto;" />
+  <img src="https://count.getloli.com/@icelaterdc?name=nuekkis&theme=booru-lewd" alt="Visitors Count" style="width: 100%; height: 100%;" />
   <br/><br/><br/>
   <img src="https://raw.githubusercontent.com/nuekkis/nuekkis/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   <br/><br/>
