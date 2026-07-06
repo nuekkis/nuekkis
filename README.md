@@ -81,10 +81,9 @@
   
   <table border="0" cellpadding="0" cellspacing="0" align="center">
     <tr>
-      <!-- Oxiron API -->
       <td valign="top" style="padding: 10px;">
-        <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); width: 360px; min-height: 240px;">
-          <img src="oxiron-preview.png" alt="OxironAPI" style="width: 100%; border-radius: 8px; max-height: 130px; object-fit: cover;" />
+        <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); width: 360px; min-height: 320px;">
+          <img src="oxiron-preview.png" alt="OxironAPI" style="width: 100%; height: 180px; border-radius: 8px; object-fit: contain; background: #000;" />
           <h3 style="margin: 12px 0 6px 0; text-align: center;">
             <a href="https://github.com/nuekkis" style="text-decoration: none; color: #F75C7E; font-weight: bold; font-size: 18px;">Oxiron API</a>
           </h3>
@@ -93,10 +92,9 @@
           </p>
         </div>
       </td>
-      <!-- OX Cloner -->
       <td valign="top" style="padding: 10px;">
-        <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); width: 360px; min-height: 240px;">
-          <img src="oxcloner-preview.png" alt="PigeonMC" style="width: 100%; border-radius: 8px; max-height: 130px; object-fit: cover;" />
+        <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); width: 360px; min-height: 320px;">
+          <img src="oxcloner-preview.png" alt="PigeonMC" style="width: 100%; height: 180px; border-radius: 8px; object-fit: contain; background: #000;" />
           <h3 style="margin: 12px 0 6px 0; text-align: center;">
             <a href="https://github.com/Oxiron-Development/OX-Cloner" style="text-decoration: none; color: #F75C7E; font-weight: bold; font-size: 18px;">OX Cloner</a>
           </h3>
