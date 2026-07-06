@@ -14,7 +14,7 @@
   <table width="100%">
     <tr>
       <td align="center" style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 24px; box-shadow: 0 4px 30px rgba(0, 0, 0, 0.4); max-width: 800px;">
-        <h3>Aʙᴏᴜᴛ Mᴇ</h3>
+        <h3>ᴀʙᴏᴜᴛ ᴍᴇ</h3>
         <p style="line-height: 1.6; font-size: 15px; color: #c9d1d9;">
           Hi! I'm <b>nuekkis</b>, a developer with a passion for building high-quality, secure, and beautiful software. I focus on blending aesthetics with technical power, writing clean code, and solving complex architectural challenges.
         </p>
@@ -36,7 +36,7 @@
 <br/>
 
 <div align="center">
-  <h2>Tᴇᴄʜ Sᴛᴀᴄᴋ</h2>
+  <h2>ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ</h2>
   <br/>
   
   <p>
@@ -76,33 +76,45 @@
 <br/>
 
 <div align="center">
-  <h2>Fᴇᴀᴛᴜʀᴇᴅ Pʀᴏᴊᴇᴄᴛs</h2>
+  <h2>ꜰᴇᴀᴛᴜʀᴇᴅ ᴘʀᴏᴊᴇᴄᴛꜱ</h2>
   <br/>
   
-  <table border="0" cellpadding="0" cellspacing="0" align="center">
+  <table width="100%" border="0" cellpadding="0" cellspacing="0">
     <tr>
-      <!-- Oxiron API -->
-      <td valign="top" style="padding: 10px;">
-        <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); width: 350px; min-height: 290px;">
-          <div style="background-image: url('oxiron-preview.png'); background-size: cover; background-position: center; width: 100%; height: 160px; border-radius: 8px;"></div>
-          <h3 style="margin: 12px 0 6px 0; text-align: center;">
-            <a href="https://github.com/nuekkis" style="text-decoration: none; color: #F75C7E; font-weight: bold; font-size: 18px;">Oxiron API</a>
-          </h3>
-          <p style="font-size: 13px; color: #8b949e; margin: 0; text-align: center; line-height: 1.5;">
-            A fast, modular, and secure API framework built for scalable backend services with clean developer ergonomics.
-          </p>
+      <td width="50%" valign="top">
+        <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 18px; margin: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); height: 340px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <img src="oxiron-preview.png" alt="OxironAPI" style="width: 100%; border-radius: 8px; max-height: 130px; object-fit: cover;" />
+            <h3 style="margin: 12px 0 6px 0; text-align: center;">
+              <a href="https://github.com/nuekkis" style="text-decoration: none; color: #F75C7E; font-weight: bold; font-size: 18px;">Oxiron API</a>
+            </h3>
+            <p style="font-size: 13px; color: #8b949e; margin: 0; text-align: center; line-height: 1.5;">
+              A fast, modular, and secure API framework built for scalable backend services with clean developer ergonomics.
+            </p>
+          </div>
+          <div align="center" style="margin-top: 8px;">
+            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="18" />
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="18" />
+            <img src="https://img.shields.io/badge/API-REST-orange?style=flat-square" height="18" />
+          </div>
         </div>
       </td>
-      <!-- OX Cloner -->
-      <td valign="top" style="padding: 10px;">
-        <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 16px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); width: 350px; min-height: 290px;">
-          <div style="background-image: url('oxcloner-preview.png'); background-size: cover; background-position: center; width: 100%; height: 160px; border-radius: 8px;"></div>
-          <h3 style="margin: 12px 0 6px 0; text-align: center;">
-            <a href="https://github.com/Oxiron-Development/OX-Cloner" style="text-decoration: none; color: #F75C7E; font-weight: bold; font-size: 18px;">OX Cloner</a>
-          </h3>
-          <p style="font-size: 13px; color: #8b949e; margin: 0; text-align: center; line-height: 1.5;">
-            Copy the source server specified by its ID to the target server using the Discord user account token.
-          </p>
+      <td width="50%" valign="top">
+        <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 18px; margin: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); height: 340px; display: flex; flex-direction: column; justify-content: space-between;">
+          <div>
+            <img src="oxcloner-preview.png" alt="PigeonMC" style="width: 100%; border-radius: 8px; max-height: 130px; object-fit: cover;" />
+            <h3 style="margin: 12px 0 6px 0; text-align: center;">
+              <a href="https://github.com/Oxiron-Development/OX-Cloner" style="text-decoration: none; color: #F75C7E; font-weight: bold; font-size: 18px;">OX Cloner </a>
+            </h3>
+            <p style="font-size: 13px; color: #8b949e; margin: 0; text-align: center; line-height: 1.5;">
+              Copy the source server specified by its ID to the target server using the Discord user account token.
+            </p>
+          </div>
+          <div align="center" style="margin-top: 8px;">
+            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="18" />
+            <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" height="18" />
+            <img src="https://img.shields.io/badge/Cloner-Automation-blueviolet?style=flat-square" height="18" />
+          </div>
         </div>
       </td>
     </tr>
@@ -112,19 +124,13 @@
 <br/>
 
 <div align="center">
-  <h2>Dᴇᴠᴇʟᴏᴘᴇʀ Aɴᴀʟʏᴛɪcs</h2>
+  <h2>ᴅᴇᴠᴇʟᴏᴘᴇʀ ᴀɴᴀʟʏᴛɪᴄꜱ</h2>
   <br/>
 
-  <table border="0" cellpadding="0" cellspacing="0" align="center">
-    <tr>
-      <td style="padding: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuekkis&theme=radical" alt="GitHub Streak" width="370" />
-      </td>
-      <td style="padding: 10px;">
-        <img src="https://github-readme-stats.shion.dev/api?username=nuekkis&show_icons=true&theme=radical" alt="GitHub Stats" width="370" />
-      </td>
-    </tr>
-  </table>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 700px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuekkis&theme=radical" alt="GitHub Streak" style="width: 400px; height: auto;" />
+    <img src="https://github-readme-stats.shion.dev/api?username=nuekkis&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 400px; height: auto;" />
+  </div>
 </div>
 
 <br/><hr/><br/>
