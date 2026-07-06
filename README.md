@@ -91,12 +91,6 @@
             <p style="font-size: 13px; color: #8b949e; margin: 0; text-align: center; line-height: 1.5;">
               A fast, modular, and secure API framework built for scalable backend services with clean developer ergonomics.
             </p>
-          </div>
-          <div align="center" style="margin-top: 8px;">
-            <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="18" />
-            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="18" />
-            <img src="https://img.shields.io/badge/API-REST-orange?style=flat-square" height="18" />
-          </div>
         </div>
       </td>
       <td width="50%" valign="top">
@@ -109,12 +103,6 @@
             <p style="font-size: 13px; color: #8b949e; margin: 0; text-align: center; line-height: 1.5;">
               Copy the source server specified by its ID to the target server using the Discord user account token.
             </p>
-          </div>
-          <div align="center" style="margin-top: 8px;">
-            <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="18" />
-            <img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" height="18" />
-            <img src="https://img.shields.io/badge/Cloner-Automation-blueviolet?style=flat-square" height="18" />
-          </div>
         </div>
       </td>
     </tr>
