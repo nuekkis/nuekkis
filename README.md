@@ -38,7 +38,7 @@
   <h2>ᴛᴇᴄʜ ꜱᴛᴀᴄᴋ</h2>
   <br/>
   <p>
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cs,react,nextjs,astro,tailwind,vite,nodejs,express,supabase,postgres,mongodb,sqlite,redis,prisma,nestjs,docker,git,githubactions,linux,postman,regex,vscode,idea,vercel,eslint" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,cs,rust,react,nextjs,astro,tailwind,vite,electron,tauri,nodejs,express,nestjs,graphql,supabase,postgres,mongodb,mysql,sqlite,redis,prisma,docker,kubernetes,nginx,git,github,githubactions,linux,aws,gcp,azure,postman,regex,jest,vscode,idea,vercel,eslint" />
   </p>
 </div>
 
