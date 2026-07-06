@@ -23,10 +23,9 @@
         </p>
         <br/>
         <div align="center">
-          <img src="https://img.shields.io/badge/🎂_Age-17-F75C7E?style=flat-square" />
-          <img src="https://img.shields.io/badge/📍_Location-Izmir%2C_Turkey-63b3ed?style=flat-square" />
+          <img src="https://img.shields.io/badge/🎂_Age-18-F75C7E?style=flat-square" />
+          <img src="https://img.shields.io/badge/📍_Location-Turkey-63b3ed?style=flat-square" />
           <img src="https://img.shields.io/badge/♂️_Pronouns-He%20%2F%20Him-48bb78?style=flat-square" />
-          <img src="https://img.shields.io/badge/🎮_Hobbies-Code%20%7C%20Music%20%7C%20Anime-dfbc70?style=flat-square" />
         </div>
       </td>
     </tr>
