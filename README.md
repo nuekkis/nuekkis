@@ -127,9 +127,10 @@
   <h2>📊 Developer Analytics</h2>
   <br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuekkis&theme=radical" alt="GitHub Streak" width="500" />
-  <br/><br/>
-  <img src="https://github-readme-stats.shion.dev/api?username=nuekkis&show_icons=true&theme=radical" alt="GitHub Stats" width="500" />
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 700px;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nuekkis&theme=radical" alt="GitHub Streak" style="width: 300px; height: auto;" />
+    <img src="https://github-readme-stats.shion.dev/api?username=nuekkis&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 300px; height: auto;" />
+  </div>
 </div>
 
 <br/><hr/><br/>
