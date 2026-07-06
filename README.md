@@ -186,7 +186,7 @@
   <img src="https://github-readme-stats.shion.dev/api?username=nuekkis&show_icons=true&theme=radical" alt="GitHub Stats" width="500" />
 </div>
 
-<br/>
+<br/><hr/><br/>
 
 <div align="center">
   <img src="https://count.getloli.com/@icelaterdc?name=nuekkis&theme=booru-lewd" alt="Visitors Count" style="width: 75%; height: auto;" />
