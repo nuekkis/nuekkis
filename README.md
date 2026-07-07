@@ -80,8 +80,8 @@
   <br/>
 
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; max-width: 700px;">
-    <img src="https://nuekkis-readme-streak-stats.vercel.app/?user=nuekkis&theme=radical" alt="GitHub Streak" style="width: 50%px; height: auto;" />
-    <img src="https://github-readme-stats.shion.dev/api?username=nuekkis&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 50%px; height: auto;" />
+    <img src="https://nuekkis-readme-streak-stats.vercel.app/?user=nuekkis&theme=radical" alt="GitHub Streak" style="width: 50%px; height: 50%;" />
+    <img src="https://github-readme-stats.shion.dev/api?username=nuekkis&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 50%px; height: 50%;" />
   </div>
 </div>
 
