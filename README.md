@@ -22,11 +22,6 @@
           So, what do I do besides coding? I love tinkering with new technologies, participating in open-source projects, and sharing knowledge with fellow developers. In my spare time, you'll find me grabbing a coffee, watching science-fiction movies, or listening to music.
         </p>
         <br/>
-        <div align="center">
-          <img src="https://img.shields.io/badge/🎂_Age-18-F75C7E?style=flat-square" />
-          <img src="https://img.shields.io/badge/📍_Location-Turkey-63b3ed?style=flat-square" />
-          <img src="https://img.shields.io/badge/♂️_Pronouns-He%20%2F%20Him-48bb78?style=flat-square" />
-        </div>
       </td>
     </tr>
   </table>
