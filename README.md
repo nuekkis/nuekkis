@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&size=38&duration=2400&pause=800&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+nuekkis+👋;Full-Stack+Developer;Aesthetics+%26+Security+Architect;Innovating+with+Code" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://nuekkis.me" target="_blank"><img src="https://img.shields.io/badge/Website-nuekkis.xyz-F75C7E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://nuekkis.me" target="_blank"><img src="https://img.shields.io/badge/Website-nuekkis.me-F75C7E?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
     <a href="mailto:nuekkis@outlook.com"><img src="https://img.shields.io/badge/Email-nuekkis%40outlook.com-4e54c8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://github.com/nuekkis"><img src="https://img.shields.io/badge/GitHub-nuekkis-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
