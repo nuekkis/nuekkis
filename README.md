@@ -19,7 +19,7 @@
           Hi! I'm <b>nuekkis</b>, a developer with a passion for building high-quality, secure, and beautiful software. I focus on blending aesthetics with technical power, writing clean code, and solving complex architectural challenges.
         </p>
         <p style="line-height: 1.6; font-size: 15px; color: #8b949e;">
-          So, what do I do besides coding? I love tinkering with new technologies, participating in open-source projects, and sharing knowledge with fellow developers. In my spare time, you'll find me grabbing a coffee, watching science-fiction movies, or listening to music.
+          So, what do I do besides coding? I love tinkering with new technologies, participating in open-source projects, and sharing knowledge with fellow developers. In my spare time, you'll find me grabbing a coffee, watching movies, or listening to music.
         </p>
         <br/>
       </td>
