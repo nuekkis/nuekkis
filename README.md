@@ -48,7 +48,7 @@
       <td width="50%" valign="top">
         <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 18px; margin: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); height: 340px; display: flex; flex-direction: column; justify-content: space-between;">
           <div>
-            <img src="oxiron-preview.png" alt="OxironAPI" style="width: 100%; border-radius: 8px; max-height: 130px; object-fit: cover;" />
+            <img src="oxiron-preview.png" alt="Oxiron API" style="width: 100%; border-radius: 8px; max-height: 130px; object-fit: cover;" />
             <h3 style="margin: 12px 0 6px 0; text-align: center;">
               <a href="https://github.com/nuekkis" style="text-decoration: none; color: #F75C7E; font-weight: bold; font-size: 18px;">Oxiron API</a>
             </h3>
@@ -60,7 +60,7 @@
       <td width="50%" valign="top">
         <div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 18px; margin: 8px; box-shadow: 0 10px 30px rgba(0,0,0,0.4); height: 340px; display: flex; flex-direction: column; justify-content: space-between;">
           <div>
-            <img src="oxcloner-preview.png" alt="PigeonMC" style="width: 100%; border-radius: 8px; max-height: 130px; object-fit: cover;" />
+            <img src="oxcloner-preview.png" alt="OX Cloner" style="width: 100%; border-radius: 8px; max-height: 130px; object-fit: cover;" />
             <h3 style="margin: 12px 0 6px 0; text-align: center;">
               <a href="https://github.com/Oxiron-Development/OX-Cloner" style="text-decoration: none; color: #F75C7E; font-weight: bold; font-size: 18px;">OX Cloner </a>
             </h3>
