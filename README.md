@@ -94,7 +94,9 @@
 <div align="center">
   <h2>ᴠɪꜱɪᴛɪᴏʀꜱ</h2>
   <img src="https://count.getloli.com/@icelaterdc?name=nuekkis&theme=booru-lewd" alt="Visitors Count" style="width: 75%; height: auto;" />
+  
   <br/><br/><br/>
+  
   <img src="https://raw.githubusercontent.com/nuekkis/nuekkis/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   <br/><br/>
   <p><em>Designed with ♥️ by nuekkis</em></p>
